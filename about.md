@@ -7,7 +7,7 @@ permalink: /about/
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/sea.jpg" }}" style="max-height: 200px"></div>
 </div>
 
-I am a postdoc researcher in the **[3D geoinformation group](https://3d.bk.tudelft.nl/)** at the Delft University of Technology, and a research fellow of the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS)](https://www.ams-institute.org/member/francesca-noardo/).
+I am a postdoc researcher in the **[3D geoinformation group](https://3d.bk.tudelft.nl/)** at the Delft University of Technology, and a research fellow of the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS-Institute)](https://www.ams-institute.org/member/francesca-noardo/).
 
 
 

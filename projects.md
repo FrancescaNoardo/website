@@ -71,7 +71,7 @@ Two use cases are developed: **'Building permission issuing'** and 'Assets and f
 </div>
 *2018-2019 (on-going)*
 
-Funded by the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS)](ams-institute.org).
+Funded by the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS-Institute)](ams-institute.org).
 
 At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
 

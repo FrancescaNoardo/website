@@ -32,5 +32,3 @@ categories: jekyll update
 - I will finish my work even if at home, while caring other needs, and I will be grateful for having the opportunity
 
 - I am encouraged to work hard for the future World’s quality
-
-*The debate is always about women, but of course it applies also to Dads :-) *
