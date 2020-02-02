@@ -2,19 +2,24 @@
 layout: page
 title: Projects
 permalink: /projects/
+------
+layout: page
+title: Projects
+permalink: /projects/
 ---
 
 Some of my recent projects, mostly aiming at the **use of open standards** to manage spatial information and at the **integration of various kinds of spatial information** (especially, 3D geoinformation and Building Information Models).
 
+*Last update 2nd February 2020*
 
 ---
 
-## Multisource Spatial data integration for smart city applications
+## [Multisource Spatial data integration for smart city applications](https://3d.bk.tudelft.nl/projects/leadingfellow/)
 <div class="row">
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/LF.gif" }}" style="max-height: 200px"></div>
 </div>
 
-*2020-2022 (coming)*
+*2020-2022 (on-going)*
 
 Funded within the [EU Marie Sklodowska-Curie cofund ‘Leading Fellows’](https://leadingfellows.eu) Postdocs Programme.
 
@@ -29,12 +34,51 @@ A methodology will be developed, in an interdisciplinary framework, for obtainin
 Ontologies, will be used to achieve such an integration. Moreover, the objects in such integrated digital map will be reciprocally harmonised to be suitable for specific use cases (e.g. building permission checks, energy, pollution assessments).
 
 ---
+<!--
+## European network for Digital Building Permission
+<div class="row">
+  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/RotterdamBP.png" }}" style="max-height: 200px"></div>
+</div>
+
+*from 2020 (on-going)*
+
+Spontaneous organisation ...
+
+
+
+
+---
+-->
+
+
+
+## [GeoBIM Building permission](https://3d.bk.tudelft.nl/projects/rotterdamgeobim_bp/)
+<div class="row">
+  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/RotterdamBP.png" }}" style="max-height: 200px"></div>
+</div>
+
+*2019-2020 (on-going)*
+
+Funded by the Municipality of Rotterdam (Digital city group).
+
+At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
+
+
+The automation of the regulation checks is further explored by this project, by means of the integrated information from the geospatial domain and the Building Information Models. 
+
+In particular, two regulations were chosen for having potentially higher advantages by the system, and higher compliance and effective assessment urgency. These are analysed and translated to more formal languages within workshops and sessions in collaboration with the municipality officers usually devoted to the interpretation of such rules. 
+
+A tool will be implemented, allowing the automatic or semi-automatic checks of the compliancy to the selected regulations using a BIM model and a 3D city model as input.
+
+A further outcome of this project will be a list of guidelines and recommendations, addressed to designers and city modelers, to be followed when building the 3D city models and the building information models involved in the procedure, in order the automation to be successful.
+
+---
 
 ## [GeoBIM benchmark project](https://3d.bk.tudelft.nl/projects/geobim-benchmark/)
 <div class="row">
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/logohome.gif" }}" style="max-height: 200px"></div>
 </div>
-*2019 (on-going)*
+*2019*
 
 Funded by [ISPRS](https://www.isprs.org) and [EuroSDR](http://www.eurosdr.net)
 
@@ -69,7 +113,7 @@ Two use cases are developed: **'Building permission issuing'** and 'Assets and f
 <div class="row">
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/amsgeobim.jpg" }}" style="max-height: 200px"></div>
 </div>
-*2018-2019 (on-going)*
+*2018-2019*
 
 Funded by the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS-Institute)](ams-institute.org).
 
@@ -84,8 +128,7 @@ The project addresses the use of GeoBIM information for applications in an urban
 Other projects in which I began the study of my current research topics and first explored their applications.
 
 
-<!-- *On-going* - EU MSC - Cultural Heritage and the Planning of European Landscapes **[HERILAND](https://www.heriland.eu)** At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
--->
+*On-going* - EU MSC - Cultural Heritage and the Planning of European Landscapes **[HERILAND](https://www.heriland.eu)** At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
 
 *2017-2018* - DG-ECHO - Increasing Resilience of Cultural heritage: a supporting decision tool for the safeguarding of cultural assets **[ResCult](https://www.rescult-project.eu)** - at Politecnico di Torino (Italy) - DIATI.
 
