@@ -1,728 +1,23 @@
-{-:Noardo3DGeoInfo2019a{:
-classo:Parslet::Slice:@positiono:Parslet::Position:@stringI"2{%% This BibTeX bibliography file was created using BibDesk.
+{:%b6ba41593e9a4a5aaa6152cf72ef6cbf{:
+classo:Parslet::Slice:@positiono:Parslet::Position:@stringI"%% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Francesca Noardo at 2019-10-17 19:22:31 +0200 
+%% Created for Francesca Noardo at 2019-10-17 19:22:31 +0200
 
 
-%% Saved with string encoding Unicode (UTF-8) 
+%% Saved with string encoding Unicode (UTF-8)
 
 
 @comment{jabref-meta: databaseType:bibtex;}
 
-@inproceedings{Noardo3DGeoInfo2019a,
-	Author = {Francesca Noardo and Filip Biljecki and Giorgio Agugiaro and Ken {Arroyo Ohori} and Claire Ellul and Lars Harrie and Jantien Stoter},
-	Booktitle = {14th 3D GeoInfo Conference 2019},
-	Doi = {10.5194/isprs-archives-XLII-4-W15-47-2019},
-	Oa = {True},
-	Pages = {47--52},
-	Publisher = {ISPRS},
-	Series = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Title = { {GeoBIM Benchmark 2019: Intermediate Results} },
-	Volume = {XLII-4},
-	Number = {W15},
-	Year = {2019},
-	Bdsk-Url-1 = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W15/47/2019}}
-	
-@inproceedings{Noardo3DGeoInfo2019b,
-	Author = {Francesca Noardo and Claire Ellul and Lars Harrie and and Emmanuel Devys and Ken {Arroyo Ohori} and Perola Olsson and Jantien Stoter},
-	Booktitle = {14th 3D GeoInfo Conference 2019},
-	Doi = {10.5194/isprs-archives-XLII-4-W15-53-2019},
-	Oa = {True},
-	Pages = {53--60},
-	Publisher = {ISPRS},
-	Series = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Title = { {EuroSDR GeoBIM Project a Study in Europe on how to use the Potentials of BIM and Geo Data in Practice} },
-	Volume = {XLII-4},
-	Number = {W15},
-	Year = {2019},
-	Bdsk-Url-1 = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W15/53/2019}}
-
-@inproceedings{isprs-archives-XLII-4-107-2018,
-	Author = {E. Colucci and F. Noardo and F. Matrone and A. Span{\'o} and A. Lingua},
-	Booktitle = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 16:08:14 +0100},
-	Date-Modified = {2018-11-05 16:20:28 +0100},
-	Doi = {10.5194/isprs-archives-XLII-4-107-2018},
-	Keywords = {Cultural Heritage, Semantic 3D Model, Database, Risk, Segmentation, Standard Data Models},
-	Oa = {True},
-	Number = {4},
-	Pages = {107-114},
-	Title = {High-level-of-detail semantic 3D GIS for risk representation of cultural heritage},
-	Url = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/107/2018/},
-	Volume = {XLII},
-	Year = {2018},
-	Bdsk-Url-1 = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/107/2018/},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLII-4-107-2018}}
-
-@inproceedings{11583_2583946,
-	Author = {Irene, Aicardi and Piero, Boccardo and Filiberto, Chiabrando and Elisabetta, Donadio and Andrea, Lingua and Paolo, Maschio and Francesca, Noardo and Antonia, Span{\'o}},
-	Booktitle = {Atti di: 18 Conferenza nazionale ASITA, Firenze, 14-16 ottobre 2014},
-	Date-Added = {2018-11-05 14:45:16 +0100},
-	Date-Modified = {2018-11-05 14:45:16 +0100},
-	Keywords = {DIRECT team; RPAS; Digital Photogrammetry; 3D models},
-	Publisher = {ASITA},
-	Title = {Rilievo metrico 3D multiscala per l'indagine e la rappresentazione architettonica e ambientale dell'area archeologica di Susa},
-	Year = {2014}}
-
-@inproceedings{11583_2602576,
-	Author = {Lingua, A. M. and Noardo, F. and Vigna, B.},
-	Booktitle = {Atti della XVIII Conferenza ASITA XVIII Firenze 14-16 ottobre 2014, ISBN: 9788890313295},
-	Date-Added = {2018-11-05 14:45:16 +0100},
-	Date-Modified = {2018-11-05 14:45:16 +0100},
-	Pages = {767-774},
-	Title = {Il monitoraggio della copertura nevosa da dati satellitari per lo studio delle risorse idriche sotterranee.},
-	Year = {2014}}
-
-@inproceedings{11583_2709572,
-	Author = {Boscolo Bozza, Erika Angela and Di Pietra, Vincenzo and Lingua, Andrea Maria and Musci, Maria Angela and Noardo, Francesca},
-	Booktitle = {21a Conferenza Nazionale ASITA},
-	Date-Added = {2018-11-05 14:45:16 +0100},
-	Date-Modified = {2018-11-05 14:45:16 +0100},
-	Keywords = {Fotogrammetria, GIS, monitoraggio, discariche},
-	Pages = {161--164},
-	Publisher = {Federazione italiana delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali},
-	Title = {Fotogrammetria e strumenti GIS per il monitoraggio dei volumi in discarica},
-	Url = {http://atti.asita.it/ASITA2017/Autori/370.html},
-	Year = {2017},
-	Bdsk-Url-1 = {http://atti.asita.it/ASITA2017/Autori/370.html}}
-
-@inproceedings{11583_2707532,
-	Author = {Chiabrando, F. and Colucci, E. and Lingua, A. and Matrone, F. and Noardo, F. and Span{\'o}, A.},
-	Booktitle = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 14:45:16 +0100},
-	Date-Modified = {2019-07-02 16:44:40 +0200},
-	Doi = {10.5194/isprs-archives-XLII-3-W4-151-2018},
-	Keywords = {Cultural Heritage; Database; Disaster management; Resilience; Risk; Information Systems; Geography, Planning and Development},
-	Number = {3},
-	Pages = {151--158},
-	Title = {A {E}uropean interoperable database (EID) to increase resilience of cultural heritage},
-	Url = {http://www.isprs.org/proceedings/XXXVIII/4-W15/},
-	Volume = {42},
-	Oa = {True},
-	Year = {2018},
-	Bdsk-Url-1 = {http://www.isprs.org/proceedings/XXXVIII/4-W15/},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLII-3-W4-151-2018}}
-
-@incollection{11583_2676967,
-	Author = {Aicardi, Irene and Gandino, Filippo and Grasso, Nives and Lingua, Andrea Maria and Noardo, Francesca},
-	Booktitle = {Computational Science and Its Applications -- ICCSA 2017},
-	Date-Added = {2018-11-05 14:45:16 +0100},
-	Date-Modified = {2018-11-05 16:01:18 +0100},
-	Doi = {10.1007/978-3-319-62401-3_9},
-	Isbn = {978-3-319-62400-6},
-	Keywords = {environmental monitoring, low-cost sensors, pollution, semantic data management, dynamic scenes},
-	Pages = {105--120},
-	Publisher = {Springer International Publishing},
-	Series = {Lecture Notes in Computer Science},
-	Title = {A Low-Cost Solution for the Monitoring of Air Pollution Parameters Through Bicycles},
-	Url = {https://www.springerprofessional.de/en/a-low-cost-solution-for-the-monitoring-of-air-pollution-paramete/13311936},
-	Volume = {10407},
-	Year = {2017},
-	Bdsk-Url-1 = {https://www.springerprofessional.de/en/a-low-cost-solution-for-the-monitoring-of-air-pollution-paramete/13311936},
-	Bdsk-Url-2 = {https://doi.org/10.1007/978-3-319-62401-3_9}}
-
-@phdthesis{11583_2644378,
-	Author = {Noardo, Francesca},
-	Date-Added = {2018-11-05 14:45:16 +0100},
-	Date-Modified = {2018-11-05 14:45:41 +0100},
-	Keywords = {Architectural heritage, documentation, cultural heritage, semantics, ontology, standard, 3D model, CityGML, interoperability, Application Domain Extension, information},
-	School = {Politecnico di Torino (Italy)},
-	Title = {Spatial ontologies for architectural heritage},
-	Url = {https://iris.polito.it/retrieve/handle/11583/2644378/206633/SpatialOntologiesAH_complete_last.pdf},
-	Year = {2016},
-	Bdsk-Url-1 = {https://iris.polito.it/retrieve/handle/11583/2644378/206633/SpatialOntologiesAH_complete_last.pdf}}
-
-@inproceedings{11583_2646657,
-	Author = {Chiabrando, F. and Di Pietra, V. and Lingua, A. and Maschio, P. and Noardo, F. and Sammartano, G. and Span{\'o}, A.},
-	Booktitle = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 14:44:27 +0100},
-	Date-Modified = {2018-11-05 14:45:04 +0100},
-	Doi = {10.5194/isprs-archives-XLI-B5-413-2016},
-	Keywords = {TLS, UAV photogrammetry, 3D modelling, techniques fusion, data fusion, Alpine Heritage},
-	Oa = {True},
-	Pages = {413--420},
-	Publisher = {COPERNICUS},
-	Title = {TLS models generation assisted by UAV survey},
-	Url = {http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B5/413/2016/ doi:10.5194/isprs-archives-XLI-B5-413-2016},
-	Volume = {XLI-B5},
-	Year = {2016},
-	Bdsk-Url-1 = {http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B5/413/2016/%20doi:10.5194/isprs-archives-XLI-B5-413-2016},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLI-B5-413-2016}}
-
-@inproceedings{11583_2628330,
-	Author = {Lingua, Andrea Maria and Piras, Marco and Noardo, Francesca and Grasso, Nives and Verda, Vittorio and Musci, Maria Angela},
-	Booktitle = {Atti della XIX Conferenza Nazionale ASITA, Lecco 29 settembre -- 1 ottobre 2015. ISBN:978-88-941232-2-7.},
-	Date-Added = {2018-11-05 14:44:27 +0100},
-	Date-Modified = {2018-11-05 14:44:27 +0100},
-	Keywords = {GIS, INSPIRE, incendi, foreste},
-	Pages = {517--522},
-	Publisher = {ASITA},
-	Title = {Studio e sviluppo di un GIS per la gestione della lotta dei grandi incendi secondo la direttiva INSPIRE},
-	Url = {http://atti.asita.it/ASITA2015/Pdf/037.pdf},
-	Year = {2015},
-	Bdsk-Url-1 = {http://atti.asita.it/ASITA2015/Pdf/037.pdf}}
-
-@inproceedings{11583_2614648,
-	Author = {Noardo, F.},
-	Booktitle = {Atti della XVIII Conferenza ASITA, Firenze 14-16 ottobre 2014 ISBN: 9788890313295.},
-	Date-Added = {2018-11-05 14:44:27 +0100},
-	Date-Modified = {2018-11-05 14:44:27 +0100},
-	Pages = {899--906},
-	Title = {Strutturazione dei dati di un GIS in ontologia: applicazione per la mappatura del degrado di un caso studio},
-	Year = {2014}}
-
-@inproceedings{11583_2602574,
-	Author = {Lingua, A. and Noardo, F.},
-	Booktitle = {Proceedings of the 1st International inproceedings on Geographical Information Systems Theory, Applications and Management (GISTAM-2015)},
-	Date-Added = {2018-11-05 14:44:27 +0100},
-	Date-Modified = {2018-11-05 14:44:27 +0100},
-	Doi = {10.5220/0005379002130220},
-	Keywords = {Geographic Information Systems; Geoprocessing; Ontology; Digita maps; Geodatabase},
-	Pages = {213--220},
-	Publisher = {SCITEPRESS - Science and Technology Publications, Lda.},
-	Title = {A Semantic Geodatabase for Environment Analysis - Extraction, Management and Sharing of Earth and Water Information in GIS.},
-	Url = {https://www.researchgate.net/publication/292990561_A_Semantic_Geodatabase_for_Environment_Analysis_Extraction_Management_and_Sharing_of_Earth_and_Water_Information_in_GIS?_sg=yhFW5q1qx0__R5jSi-tlNO72t0lIAMz11bqfFaP5AM4HheCFh9aqIokcHNIkcBwgNlrvRWF84GArf_Uhx5c7UtuUxaOtPM1B43obgyQC.qLojC5A_eWF0zWtquQe1gAyoWvlOfgOti0-BGhWLCugUfSgvntp7yh-XV1aUsVJtKy5lv7aiX5hWx7rOGtU8Sw},
-	Year = {2015},
-	Bdsk-Url-1 = {https://doi.org/10.5220/0005379002130220}}
-
-@inbook{11583_2620593,
-	Address = {Susa (TO)},
-	Author = {Aicardi, Irene and Boccardo, Piero and Chiabrando, Filiberto and Donadio, Elisabetta and Lingua, Andrea and Maschio, Paolo and Noardo, Francesca and Span{\'o}, Antonia},
-	Booktitle = {L'arco di Susa e i monumenti della propaganda imperiale in et{\'a} augustea},
-	Date-Added = {2018-11-05 14:42:49 +0100},
-	Date-Modified = {2018-11-05 14:42:49 +0100},
-	Isbn = {9788890785948},
-	Keywords = {3D model, UAV photogrammetry, Orthoimages, DEM, TLS, CH},
-	Pages = {195--216},
-	Publisher = {Segusium - Soc. di Ricerche e Studi Valsusini},
-	Title = {Modelli 3D multisensore per l'acropoli segusina},
-	Url = {http://www.segusium.org/images/Monografie_sulla_Valle_di_Susa_edite_da_Segusium.aggiornato.pdf},
-	Volume = {numero speciale luglio 2015 anno LII},
-	Year = {2015},
-	Bdsk-Url-1 = {http://www.segusium.org/images/Monografie_sulla_Valle_di_Susa_edite_da_Segusium.aggiornato.pdf}}
-
-@inproceedings{11583_2602575,
-	Author = {Cerutti, E. and Noardo, F. and Span{\'o}, A.},
-	Booktitle = {Proceedings of the 1st International inproceedings on Geographical Information Systems Theory, Applications and Management (GISTAM-2015)},
-	Date-Added = {2018-11-05 14:42:49 +0100},
-	Date-Modified = {2018-11-05 14:42:49 +0100},
-	Doi = {10.5220/0005387801210128},
-	Keywords = {Semantics; Standards; Images; GIS; Interoperability; PostGIS; Cultural Heritage; Architectural Heritage},
-	Pages = {121--128},
-	Publisher = {SCITEPRESS - Science and Technology Publications, Lda.},
-	Title = {Architectural Heritage Semantic Data Managing and Sharing in GIS.},
-	Url = {https://www.researchgate.net/publication/283149811_Architectural_Heritage_Semantic_Data_Managing_and_Sharing_in_GIS},
-	Year = {2015},
-	Bdsk-Url-1 = {https://doi.org/10.5220/0005387801210128}}
-
-@inproceedings{11583_2630054,
-	Author = {Noardo, F.},
-	Booktitle = {Atti della XIX Conferenza Nazionale ASITA, Lecco 29 settembre -- 1 ottobre 2015. ISBN:978-88-941232-2-7.},
-	Date-Added = {2018-11-05 14:42:49 +0100},
-	Date-Modified = {2018-11-05 14:42:49 +0100},
-	Keywords = {Ontologie, GIS, Beni architettonici, standard, modelli 3D},
-	Pages = {893--900},
-	Title = {Ontologie e modelli di dati per l'informazione spaziale dei Beni Architettonici},
-	Year = {2015}}
-
-@inproceedings{11583_2691848,
-	Author = {Lingua, Andrea Maria and Noardo, Francesca and Span{\'o}, Antonia Teresa and Sanna, Salvatore and Matrone, Francesca},
-	Booktitle = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 14:42:49 +0100},
-	Date-Modified = {2018-11-05 14:44:08 +0100},
-	Doi = {10.5194/isprs-archives-XLII-4-W2-107-2017},
-	Keywords = {Cultural heritage; Flight plan; Oblique images; Open source; SfM; UAV; Information Systems; Geography, Planning and Development},
-	Oa = {True},
-	Number = {4/W2},
-	Pages = {107--115},
-	Title = {3D model generation using oblique images acquired by UAV},
-	Url = {http://www.isprs.org/proceedings/XXXVIII/4-W15/},
-	Volume = {42},
-	Year = {2017},
-	Bdsk-Url-1 = {http://www.isprs.org/proceedings/XXXVIII/4-W15/},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLII-4-W2-107-2017}}
-
-@inproceedings{11583_2648667,
-	Author = {Arco, E. and Boccardo, P. and Gandino, F. and Lingua, A. and Noardo, F. and Rebaudengo, M.},
-	Booktitle = {ISPRS - International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 14:40:44 +0100},
-	Date-Modified = {2018-11-05 14:41:31 +0100},
-	Doi = {10.5194/isprs-annals-IV-4-W1-67-2016},
-	Keywords = {Pollution, Semantic web, Environmental monitoring, dynamic sensors, standard data models, internet of things},
-	Pages = {67--74},
-	Publisher = {Copernicus publications},
-	Title = {An integrated approach for pollution monitoring: smart acquirement and smart information},
-	Url = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/67/2016/isprs-annals-IV-4-W1-67-2016.pdf},
-	Volume = {III-4/W1},
-	Year = {2016},
-	Bdsk-Url-1 = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/67/2016/isprs-annals-IV-4-W1-67-2016.pdf},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-annals-IV-4-W1-67-2016}}
-
-@inproceedings{11583_2531487,
-	Address = {Milano},
-	Author = {Lingua, A. and Noardo, F. and Vigna, B.},
-	Booktitle = {Atti della XVII conferenza ASITA, Riva del Garda (TN) 5-7 novembre 2013, ISBN: 9788890313288},
-	Date-Added = {2018-11-05 14:40:44 +0100},
-	Date-Modified = {2018-11-05 16:03:18 +0100},
-	Pages = {869--876},
-	Publisher = {Federazione ASITA},
-	Title = {Un nuovo approccio per la gestione delle risorse idriche sotterranee in ambito transfrontaliero: Prog. ALCOTRA-ALIRHYS},
-	Volume = {unico},
-	Year = {2013}}
-
-@inproceedings{11583_2556559,
-	Author = {Chiabrando, F. and Lingua, A. and Noardo, F. and Span{\'o}, A.},
-	Booktitle = {ISPRS - International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 14:40:44 +0100},
-	Date-Modified = {2018-11-05 14:42:06 +0100},
-	Doi = {10.5194/isprsannals-II-5-97-2014},
-	Keywords = {image matching; Digital Photogrammetry; area-based-matching; feature-matching; TLS; 3D models; Cultural Heritage},
-	Pages = {97--104},
-	Publisher = {Copernicus GmbH},
-	Title = {3D Modelling of trompe l'oeil decorated vaults using dense matching techniques},
-	Url = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5/97/2014/isprsannals-II-5-97-2014.pdf},
-	Volume = {II-5, 2014},
-	Year = {2014},
-	Bdsk-Url-1 = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5/97/2014/isprsannals-II-5-97-2014.pdf},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprsannals-II-5-97-2014}}
-
-@inproceedings{11583_2630051,
-	Author = {Cerutti, E. and Donadio, E. and Noardo, F. and Span{\'o}, A.},
-	Booktitle = {Heritage and landscape as human values. Conference Proceedings, ICOMOS 18th General Assembly - Symposium Firenze, Italia 9/14 November 2014. ISBN:9788849530575},
-	Date-Added = {2018-11-05 14:37:59 +0100},
-	Date-Modified = {2018-11-05 14:47:09 +0100},
-	Keywords = {GIS, stratigraphy, open source tools, 3D models, reality based models},
-	Pages = {533--539},
-	Publisher = {Edizioni Scientifiche Italiane spa},
-	Title = {Strategies for data storing in CH conservation plans. Facades analyses in GIS environment},
-	Year = {2015}}
-
-@misc{11583_2630074,
-	Author = {Aicardi, I. and Assaba, M. and Audra, P. and Banzato, C. and Bianco, F. and Fiorucci, A. and Gourbesville, P. and Laborde, J. P. and Lingua, A. and Maschio, P. and Marchionatti, F. and Menegatti, S. and Moitre, B. and Noardo, F. and Vigna, B.},
-	Date-Added = {2018-11-05 14:37:59 +0100},
-	Date-Modified = {2019-07-02 16:45:43 +0200},
-	Isbn = {978-88-98878-10-9},
-	Keywords = {Risorse idriche sotterranee, Sorgenti, cambiamenti climatici, monitoraggio ambientale, GIS, WebGIS, acqua, progetto transfrontaliero, INSPIRE, DTM, armonizzazione cartografica, neve, Ressources Hydriques souterraine, sources, clime changements climatiques, surveillance de l'environnement, SIG, eau, projet transfrontalier, harmonisation cartographique, neige},
-	Publisher = {Regione Piemonte},
-	Title = {Progetto ALIRHYS, Alpi Latine identificazione delle risorse Hydrique Sotterranee},
-	Url = {http://areeweb.polito.it/ricerca/ALIRHYS/wp-includes/pdf/ALIRHYS_PUBBLICAZIONE_FRANCESE.pdf},
-	Year = {2015},
-	Bdsk-Url-1 = {http://areeweb.polito.it/ricerca/ALIRHYS/wp-includes/pdf/ALIRHYS_PUBBLICAZIONE_FRANCESE.pdf}}
-
-@incollection{11583_2676389,
-	Author = {Noardo, Francesca},
-	Booktitle = {GISTAM 2016 - Revised Selected Best Papers},
-	Date-Added = {2018-11-05 14:37:59 +0100},
-	Date-Modified = {2018-11-05 14:37:59 +0100},
-	Doi = {10.1007/978-3-319-62618-5_9},
-	Editor = {Grueau, C. and Gustavo Rocha, J. and Laurini, R.},
-	Isbn = {978-3-319-62617-8},
-	Keywords = {Semantics; Standard; Ontologies; 3D Model; CityGML; Interop-erability; ADE; Architectural Heritage},
-	Local-Url = {https://www.researchgate.net/publication/318302308_A_Spatial_Ontology_for_Architectural_Heritage_Information},
-	Pages = {143--163},
-	Publisher = {Springer International Publishing},
-	Series = {CCIS Book Series},
-	Title = {A Spatial Ontology for Architectural Heritage Information},
-	Url = {https://www.researchgate.net/publication/318302308_A_Spatial_Ontology_for_Architectural_Heritage_Information},
-	Volume = {741},
-	Year = {2017},
-	Bdsk-Url-1 = {https://www.springerprofessional.de/a-spatial-ontology-for-architectural-heritage-information/13290152},
-	Bdsk-Url-2 = {https://doi.org/10.1007/978-3-319-62618-5_9}}
-
-@inproceedings{11583_2651736,
-	Author = {Noardo, Francesca},
-	Booktitle = {GISTAM 2016 - Proceedings of the 2nd International inproceedings on Geographical Information Systems Theory, Applications and Management},
-	Date-Added = {2018-11-05 14:37:59 +0100},
-	Date-Modified = {2018-11-05 14:37:59 +0100},
-	Doi = {10.5220/0005830901680179},
-	Keywords = {3D model; ADE; Architectural heritage; CityGML; Interoperability; Ontologies; Semantics; Standard},
-	Local-Url = {https://www.researchgate.net/publication/302973599_Architectural_Heritage_Ontology_-_Concepts_and_Some_Practical_Issues},
-	Pages = {168--179},
-	Publisher = {SciTePress},
-	Title = {Architectural heritage ontology - concepts and some practical issues},
-	Url = {http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=eLdIVcnx6ys%3d&t=1},
-	Year = {2016},
-	Bdsk-Url-1 = {http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=eLdIVcnx6ys%3d&t=1},
-	Bdsk-Url-2 = {https://doi.org/10.5220/0005830901680179}}
-
-@article{11583_2700334,
-	Author = {Chiabrando, Filiberto and Danna, Chiara and Lingua, Andrea and Noardo, Francesca and Osello, Anna},
-	Date-Added = {2018-11-05 14:37:00 +0100},
-	Date-Modified = {2018-11-05 14:37:00 +0100},
-	Doi = {10.5623/cig2017-301},
-	Issn = {1925-4296},
-	Journal = {GEOMATICA},
-	Keywords = {Photogrammetry, structure-from-motion, open source, solar irradiation, GIS, surface analysis, DSM},
-	Number = {3},
-	Pages = {137--153},
-	Publisher = {Canadian Institute of Geomatics},
-	Title = {3D roof model generation and analysis supporting solar system positioning},
-	Url = {http://pubs.cig-acsg.ca/doi/pdf/10.5623/cig2017-301},
-	Volume = {71},
-	Year = {2017},
-	Bdsk-Url-1 = {http://pubs.cig-acsg.ca/doi/pdf/10.5623/cig2017-301},
-	Bdsk-Url-2 = {https://doi.org/10.5623/cig2017-301}}
-
-@article{11583_2705050,
-	Author = {Noardo, Francesca},
-	Date-Added = {2018-11-05 14:23:00 +0100},
-	Date-Modified = {2018-11-05 14:23:00 +0100},
-	Doi = {10.1016/j.culher.2018.02.009},
-	Issn = {1296-2074},
-	Journal = {JOURNAL OF CULTURAL HERITAGE},
-	Keywords = {3D digital archive; Architectural heritage; Documentation standard; Interoperability; Ontologies; Semantics; Conservation},
-	Publisher = {Elsevier Masson SAS},
-	Title = {Architectural heritage semantic 3D documentation in multi-scale standard maps},
-	Url = {https://www.researchgate.net/publication/323529104_Architectural_heritage_semantic_3D_documentation_in_multi-scale_standard_maps},
-	Year = {2018},
-	Bdsk-Url-1 = {https://www.sciencedirect.com/science/article/pii/S1296207417303710},
-	Bdsk-Url-2 = {https://doi.org/10.1016/j.culher.2018.02.009}}
-
-@inproceedings{11583_2644437,
-	Author = {Aicardi, I. and Chiabrando, F. and Grasso, N. and Lingua, A. M. and Noardo, F. and Span{\'o}, A.},
-	Booktitle = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Added = {2018-11-05 14:20:19 +0100},
-	Date-Modified = {2018-11-05 14:35:44 +0100},
-	Doi = {10.5194/isprs-archives-XLI-B1-835-2016},
-	Keywords = {UAV, Oblique Imagery, photogrammetry, SfM, point clouds, cultural heritage, architectural 3D models},
-	Pages = {835--842},
-	Publisher = {International Society for Photogrammetry and Remote Sensing},
-	Title = {UAV photogrammetry with oblique images: first analysis on data acquisition and processing},
-	Url = {http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/835/2016/},
-	Volume = {XLI-B1},
-	Year = {2016},
-	Bdsk-Url-1 = {http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/835/2016/},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLI-B1-835-2016}}
-
-@article{11583_2620597,
-	Author = {Noardo, Francesca and Span{\'o}, Antonia},
-	Date-Added = {2018-11-05 14:20:19 +0100},
-	Date-Modified = {2018-11-05 14:20:19 +0100},
-	Doi = {10.1260/2047-4970.4.2.133},
-	Issn = {2047-4970},
-	Journal = {International Journal of Heritage in the Digital Era},
-	Keywords = {Intangible Cultural Heritage, Semantic Data, OWL Schema, CIDOC-CRM ontology, GIS},
-	Number = {2},
-	Pages = {133--147},
-	Publisher = {Multi-science},
-	Title = {Towards a spatial semantic management for the Intangible Cultural Heritage},
-	Url = {http://dx.doi.org/10.1260/2047-4970.4.2.133},
-	Volume = {4-2015},
-	Year = {2015},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1260/2047-4970.4.2.133}}
-
-@article{11583_2531493,
-	Author = {Aicardi, I. and Chiabrando, F. and Lingua, A. M. and Noardo, F. and Piras, M.},
-	Date-Added = {2018-11-05 14:20:19 +0100},
-	Date-Modified = {2018-11-05 14:20:19 +0100},
-	Journal = {JUNCO. Journal of universities and international development cooperation},
-	Keywords = {UAV -- Unmanned Aerial Vehicles; Digital Photogrammetry; Disaster Management},
-	Pages = {164--171},
-	Publisher = {University of Turin, Politecnico di Torino},
-	Title = {Unmanned aerial systems for data acquisitions in disaster management applications},
-	Url = {http://www.ojs.unito.it/index.php/junco/issue/viewIssue/62/26},
-	Volume = {1-2014},
-	Year = {2014},
-	Bdsk-Url-1 = {http://www.ojs.unito.it/index.php/junco/issue/viewIssue/62/26}}
-
-@article{Noardo_et_al.2016,
-	Author = {Noardo, Francesca and Lingua, Andrea Maria and Aicardi, Irene and Vigna, Bartolomeo},
-	Date-Added = {2018-11-05 14:20:19 +0100},
-	Date-Modified = {2018-11-05 14:20:19 +0100},
-	Doi = {10.1007/s12518-016-0172-9},
-	Issn = {1866928X, 18669298},
-	Journal = {APPLIED GEOMATICS},
-	Keywords = {cartography, data harmonisation, DTM, orthophoto, digital maps, INSPIRE, ALCOTRA},
-	Local-Url = {https://www.researchgate.net/publication/304064666_Cartographic_data_harmonisation_for_a_cross-border_project_development},
-	Number = {3},
-	Pages = {1--18},
-	Publisher = {Springer},
-	Title = {Cartographic data harmonisation for a cross-border project development},
-	Url = {https://www.researchgate.net/publication/304064666_Cartographic_data_harmonisation_for_a_cross-border_project_development},
-	Volume = {8},
-	Year = {2016},
-	Bdsk-Url-1 = {http://link.springer.com/article/10.1007/s12518-016-0172-9},
-	Bdsk-Url-2 = {https://doi.org/10.1007/s12518-016-0172-9}}
-
-@article{11583_2638059,
-	Author = {Noardo, Francesca},
-	Date-Added = {2018-11-05 14:18:29 +0100},
-	Date-Modified = {2018-11-05 14:18:29 +0100},
-	Issn = {1721-971X},
-	Journal = {Bollettino della Societ{\'a} Italiana di Fotogrammetria e Topografia},
-	Keywords = {fotogrammetria digitale, Computer Vision, Dense Image Matching, SfM, Beni Culturali, documentazione},
-	Publisher = {SIFET},
-	Title = {Dense Image matching per il recupero di contenuto metrico da immagini di documentazione e camere non metriche},
-	Volume = {1/2015},
-	Year = {2015}}
-
-@article{11583_2651216,
-	Author = {Aicardi, Irene and Chiabrando, Filiberto and Lingua, Andrea Maria and Noardo, Francesca and Piras, Marco and Vigna, Bartolomeo},
-	Date-Added = {2018-11-05 14:18:29 +0100},
-	Date-Modified = {2018-11-05 14:18:29 +0100},
-	Doi = {10.1080/19475705.2016.1225229},
-	Issn = {1947-5705, 1947-5713},
-	Journal = {GEOMATICS, NATURAL HAZARDS \& RISK},
-	Keywords = {UAV, thermal sensors, data integration, action-cam, photogrammetry,},
-	Pages = {1--13},
-	Publisher = {Taylor \& Francis},
-	Title = {A methodology for acquisition and processing of thermal data acquired by UAVs: a test about subfluvial springs' investigations},
-	Url = {https://www.tandfonline.com/doi/full/10.1080/19475705.2016.1225229},
-	Year = {2016},
-	Bdsk-Url-1 = {https://doi.org/10.1080/19475705.2016.1225229}}
-
-@article{11583_2655794,
-	Author = {Lingua, Andrea Maria and Piras, Marco and Musci, Maria Angela and Noardo, Francesca and Grasso, Nives and Verda, Vittorio},
-	Date-Added = {2018-11-05 14:18:29 +0100},
-	Date-Modified = {2018-11-05 14:18:29 +0100},
-	Issn = {1128-8132},
-	Journal = {GEOMEDIA},
-	Keywords = {INSPIRE Directive, fire-fighting, GIS},
-	Number = {3},
-	Pages = {28--31},
-	Publisher = {mediaGEO soc. coop.},
-	Title = {Study and development of a GIS for fire-fighting activities based on INSPIRE directive},
-	Url = {http://mediageo.it/ojs/index.php/GEOmedia/article/view/1327},
-	Volume = {20},
-	Year = {2016},
-	Bdsk-Url-1 = {http://mediageo.it/ojs/index.php/GEOmedia/article/view/1327}}
-
-@article{11583_2686638,
-	Author = {Grasso, Nives and Lingua, Andrea Maria and Musci, Maria Angela and Noardo, Francesca and Piras, Marco},
-	Date-Added = {2018-11-05 14:18:29 +0100},
-	Date-Modified = {2018-11-05 14:18:29 +0100},
-	Doi = {10.1007/s11069-017-3059-0},
-	Issn = {0921-030X},
-	Journal = {NATURAL HAZARDS},
-	Keywords = {Forest fire-fighting , Decision support system , Emergency management, INSPIRE data model , GIS},
-	Number = {2},
-	Pages = {623-637},
-	Publisher = {Springer Netherlands},
-	Title = {An INSPIRE-compliant open-source GIS for fire-fighting management},
-	Url = {https://link.springer.com/article/10.1007/s11069-017-3059-0},
-	Volume = {90},
-	Year = {2017},
-	Bdsk-Url-1 = {https://link.springer.com/article/10.1007/s11069-017-3059-0},
-	Bdsk-Url-2 = {https://doi.org/10.1007/s11069-017-3059-0}}
-
-@article{11583_2705081,
-	Author = {Aicardi, Irene and Chiabrando, Filiberto and Lingua, Andrea Maria and Noardo, Francesca},
-	Doi = {10.1016/j.culher.2017.11.006},
-	Issn = {1296-2074},
-	Journal = {JOURNAL OF CULTURAL HERITAGE},
-	Keywords = {Photogrammetry; Computer vision; Structure-from-motion; Algorithms; 3D modelling; Orthophoto},
-	Pages = {257--266},
-	Publisher = {Elsevier},
-	Title = {Recent trends in cultural heritage 3D survey: The photogrammetric computer vision approach},
-	Url = {https://www.researchgate.net/publication/323529104_Architectural_heritage_semantic_3D_documentation_in_multi-scale_standard_maps},
-	Volume = {32},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1016/j.culher.2017.11.006}}
-
-@inproceedings{Kokla19,
-	Author = {M. Kokla and M. A. Mostafavi and F. Noardo and A. Span{\'o}},
-	Booktitle = {ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Date-Modified = {2019-07-02 16:25:40 +0200},
-	Doi = {10.5194/isprs-archives-XLII-2-W11-675-2019},
-	Pages = {675-683},
-	Title = {Towards Building a Semantic Formalization of (small) Historical Centres.},
-	Url = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W11/675/2019/isprs-archives-XLII-2-W11-675-2019.pdf},
-	Volume = {4211},
-	Year = {2019},
-	Bdsk-Url-1 = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W11/675/2019/isprs-archives-XLII-2-W11-675-2019.pdf},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLII-2-W11-675-2019}}
-
-@inproceedings{Noardo19a,
-	Author = {F. Noardo and K. Arroyo Ohori and F. Biljecki and C. Ellul and L. Harrie and T. Krijnen and J. Stoter},
-	Booktitle = {ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-	Doi = {10.5194/isprs-archives-XLII-2-W13-1339-2019},
-	Keywords = {GeoBIM, software support, interoperability, open standards, CityGML, IFC, 3D city models, BIM},
-	Number = {2/W13},
-	Organization = {ISPRS},
-	Pages = {1339-1346},
-	Title = {GeoBIM Benchmark 2019: Design and Initial Results},
-	Url = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1339/2019/},
-	Volume = {42},
-	Year = {2019},
-	Bdsk-Url-1 = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1339/2019/},
-	Bdsk-Url-2 = {https://doi.org/10.5194/isprs-archives-XLII-2-W13-1339-2019}}
-
-@article{Noardo19b,
-	Author = {F. Noardo and C. Ellul, C. and L. Harrie and I. Overland and M. Shariat and K. Arroyo Ohori and J. Stoter},
-	Doi = {10.1080/14498596.2019.1627253.},
-	Journal = {Journal of Spatial Science},
-	Keywords = {GeoBIM; National Mapping and Cadastral Agencies;building permits; GIS; BIM},
-	Title = {Opportunities and Challenges for GeoBIM in Europe: developing a building permits use-case to raise awareness and examine technical interoperability challenges.},
-	Url = {http://dx.doi.org/10.1080/14498596.2019.1627253.},
-	Year = {2019},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1080/14498596.2019.1627253.}}
-
-@article{Chaibrando15,
-	Author = {Chiabrando, F. and Danna, C. and Lingua, A. and Noardo, F. and Osello, A.},
-	Issn = {1591-092X},
-	Journal = {Geomatics workbooks},
-	Note = {Brovelli, M., Minghini, M., Negretti, M. Free and open source software for geospatial.},
-	Pages = {85--98},
-	Title = {Effective tools for supporting energetic policies: 3d urban models generation and analysis models supporting energetic policies.},
-	Volume = {12},
-	Year = {2015}}
-
-@inproceedings{DelGiudice17,
-	Author = {Del Giudice, Matteo and Lingua, Andrea and Matrone, Francesca and Noardo, Francesca and Sanna, Salvatore and Zerbinatti, Marco},
-	Booktitle = {Atti della XXI Conferenza Nazionale ASITA, 21-23 novembre 2017. Salerno},
-	Title = {Rilevamento metrico 3D e modellazione H-BIM per la manutenzione programmata del patrimonio architettonico.},
-	Year = {2017}}
-:ET:@byteposiÿ:	@strI"inproceedings;T:@line_cacheo:Parslet::Source::LineCache:@line_endse:!Parslet::Source::RangeSearch[>iAidieižiŸi iÏiÐiÑiýiþi#i´iäii&i9iOiÂiþii#i3i—i™i¾iPi€i´iÂiÕiëi^iÔièiùi	iminiiñigi’iÀiñiYigiviŠièiC	iU	ie	iÇ	i
-i
-i.
-iã
-i7ibiiÔiêiti„i…i£iÛiCiniœi°i(i8i9iWißii9igi¤i¹i,iƒi¼iÌiii+i—ii8ifiši&i5iJi¬iæiöiiiUi i¡i¾i0iyi¤iÒiøii„i™iËiúiZiÕièiøizi·i¸iÒiñiiJii,ifiÒiâiUiVitiõiki–iÄiõi[iii~i™iÒiWiki{i	iQiRipi÷ip i› iÉ i÷ i!i"!i–!iË!iÛ!i"i"i6"iN"i±"iÜ"i
-#i#i—#i§#i¨#iÆ#ií#i†$i±$iß$i%ic%ix%i¿%iG&iÀ'iÐ'i
-(i(i"(i:(iï(iK)iv)i¤)i½)i*i*iW*i“*iü*i.+i>+i®+i¯+iÍ+i,i ,iË,iù,i-i“-i¨-iï-i=.i».iË.i/i/i$/i</iµ/ià/i0iW0il0iÈ0iØ0iÙ0i÷0iy1iï1i2iH2i|2i3i3i+3i@3i…3i¿3iÏ3iß3i 4ik4il4iŠ4iò4if5i‘5i¿5iî5ij6i}6i¥6i
-7i…7i›7i«7i-8is8it8i’8i§8iÜ8iI9it9i¢9i·9iÙ9i\:io:i:i€:iž:iê:i^;i‰;i·;iâ;ib<iv<i–<iñ<ie=i}=i=i>iJ>iK>ii>i³>ic?iŽ?i¼?i@i&@iY@i¿@iÏ@iÐ@iå@iåAiBi>Bi[BiÒCióCiPDi¶DiÆDi3Ei4EiQEipEi«EiÖEiFi*FihFi…Fi÷FitGi‰Gi»GiÙGiHi–Hi§Hi·Hi/IilIimIi‹IiªIiCJinJiœJi¿Ji0Ki¸KiÍKièKi9LišLiªLiMiLMiMMieMiÔMiÿMi-NiKNi`NixNiéNiøNiOi=Oi“OiÑOiáOiñOi6PikPilPi„Pi£PiÎPiüPi#Qi8QicQiìQiRijRiõRiSiZSi˜Si™Si·Si%Ti›TiÆTiôTi%Ui˜Ui­UiùUi_Vi¹ViÍViÝVi>Wi†Wi‡WiŸWiÕWi Xi.XiRXigXiªXi
-YiYi.YiLYi£YiÙYiíYiýYi:Zi;ZiSZi®ZiÙZi[i^[iº[iÏ[i
-\ih\i°\iÄ\iÔ\i#]i$]i@]i¡]iÌ]iú]i^i<^i\^i¼^iF_iU_ig_i€_iÓ_iW`if`iv`iÂ`iý`iþ`iai5ai`aiŽai£aiöaiibibiùbicicici6ciÂciícidiCdicdi”diçdiùdiei¦eióeifiBfiCfi[fiâfigi;giPgiggiœgi«gi¾giâgiEhi‹hi›hi«hiøhiùhiii„ii¯iiÝiijiji4ji£ji²jiÆjiëji9kikikiŸkiìki'li(li@li¥liÌliálimixmimi¦mini˜ni¨ni¸niöni÷nioiXoiÌoiúoi/piCpi˜piqi/qi?qiËqiriri2ri¥risiOsi¼siÏsièsiþsi<tiœti¬ti¼ti#uipuiqui…uiüui%viNvi¨viTwiwiŸwiáwiâwiùwiPxiexi‡xiéxiüxi‰yi™yi©yiªyiÇyiSzi«zi"{i2{:@last_line_endi2{:keyI"Noardo3DGeoInfo2019a;F:bibtex{I"author;TI"ƒFrancesca Noardo and Filip Biljecki and Giorgio Agugiaro and Ken {Arroyo Ohori} and Claire Ellul and Lars Harrie and Jantien Stoter;TI"booktitle;TI"$14th 3D GeoInfo Conference 2019;TI"doi;TI".10.5194/isprs-archives-XLII-4-W15-47-2019;TI"oa;TI"	True;TI"
-pages;TI"47--52;TI"publisher;TI"
-ISPRS;TI"series;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"
-title;TI"4 {GeoBIM Benchmark 2019: Intermediate Results} ;TI"volume;TI"XLII-4;TI"number;TI"W15;TI"	year;TI"	2019;TI"bdsk-url-1;TI"Whttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W15/47/2019;T:author[I"Francesca Noardo;TI"Filip Biljecki;TI"Giorgio Agugiaro;TI"Ken Arroyo Ohori;TI"Claire Ellul;TI"Lars Harrie;TI"Jantien Stoter;T:booktitleI"$14th 3D GeoInfo Conference 2019;T:doiI".10.5194/isprs-archives-XLII-4-W15-47-2019;T:oaI"	True;T:
-pagesI"47â€“52;T:publisherI"
-ISPRS;T:seriesI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T:
-titleI"0GeoBIM Benchmark 2019: Intermediate Results;T:volumeI"XLII-4;T:numberI"W15;T:	yearI"	2019;T:bdsk-url-1I"Whttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W15/47/2019;T:Noardo3DGeoInfo2019b{;o;;o;	;
-@	;iš;I"inproceedings;T;@;I"Noardo3DGeoInfo2019b;F;{I"author;TI"„Francesca Noardo and Claire Ellul and Lars Harrie and and Emmanuel Devys and Ken {Arroyo Ohori} and Perola Olsson and Jantien Stoter;TI"booktitle;TI"$14th 3D GeoInfo Conference 2019;TI"doi;TI".10.5194/isprs-archives-XLII-4-W15-53-2019;TI"oa;TI"	True;TI"
-pages;TI"53--60;TI"publisher;TI"
-ISPRS;TI"series;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"
-title;TI"n {EuroSDR GeoBIM Project a Study in Europe on how to use the Potentials of BIM and Geo Data in Practice} ;TI"volume;TI"XLII-4;TI"number;TI"W15;TI"	year;TI"	2019;TI"bdsk-url-1;TI"Whttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W15/53/2019;T;[I"Francesca Noardo;TI"Claire Ellul;TI"Lars Harrie;TI"Emmanuel Devys;TI"Ken Arroyo Ohori;TI"Perola Olsson;TI"Jantien Stoter;T;I"$14th 3D GeoInfo Conference 2019;T;I".10.5194/isprs-archives-XLII-4-W15-53-2019;T;I"	True;T;I"53â€“60;T;I"
-ISPRS;T;I"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;I"jEuroSDR GeoBIM Project a Study in Europe on how to use the Potentials of BIM and Geo Data in Practice;T;I"XLII-4;T;I"W15;T;I"	2019;T; I"Whttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W15/53/2019;T:#isprs-archives-XLII-4-107-2018{;o;;o;	;
-@	;io;I"inproceedings;T;@;I"#isprs-archives-XLII-4-107-2018;F;{I"author;TI"KE. Colucci and F. Noardo and F. Matrone and A. Span{\'o} and A. Lingua;TI"booktitle;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 16:08:14 +0100;TI"date-modified;TI"2018-11-05 16:20:28 +0100;TI"doi;TI"+10.5194/isprs-archives-XLII-4-107-2018;TI"keywords;TI"]Cultural Heritage, Semantic 3D Model, Database, Risk, Segmentation, Standard Data Models;TI"oa;TI"	True;TI"number;TI"4;TI"
-pages;TI"107-114;TI"
-title;TI"VHigh-level-of-detail semantic 3D GIS for risk representation of cultural heritage;TI"url;TI"Uhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/107/2018/;TI"volume;TI"	XLII;TI"	year;TI"	2018;TI"bdsk-url-1;TI"Uhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/107/2018/;TI"bdsk-url-2;TI";https://doi.org/10.5194/isprs-archives-XLII-4-107-2018;T;[
-I"E. Colucci;TI"F. Noardo;TI"F. Matrone;TI"A. SpanÃ³;TI"A. Lingua;T;I"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T:date-addedI"2018-11-05 16:08:14 +0100;T:date-modifiedI"2018-11-05 16:20:28 +0100;T;I"+10.5194/isprs-archives-XLII-4-107-2018;T:keywordsI"]Cultural Heritage, Semantic 3D Model, Database, Risk, Segmentation, Standard Data Models;T;I"	True;T;I"4;T;I"107-114;T;I"VHigh-level-of-detail semantic 3d gis for risk representation of cultural heritage;T:urlI"Uhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/107/2018/;T;I"	XLII;T;I"	2018;T; I"Uhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/107/2018/;T:bdsk-url-2I";https://doi.org/10.5194/isprs-archives-XLII-4-107-2018;T:11583_2583946{;o;;o;	;
-@	;i
-;I"inproceedings;T;@;I"11583_2583946;F;{I"author;TI"§Irene, Aicardi and Piero, Boccardo and Filiberto, Chiabrando and Elisabetta, Donadio and Andrea, Lingua and Paolo, Maschio and Francesca, Noardo and Antonia, Span{\'o};TI"booktitle;TI"HAtti di: 18 Conferenza nazionale ASITA, Firenze, 14-16 ottobre 2014;TI"date-added;TI"2018-11-05 14:45:16 +0100;TI"date-modified;TI"2018-11-05 14:45:16 +0100;TI"keywords;TI"9DIRECT team; RPAS; Digital Photogrammetry; 3D models;TI"publisher;TI"
-ASITA;TI"
-title;TI"}Rilievo metrico 3D multiscala per l'indagine e la rappresentazione architettonica e ambientale dell'area archeologica di Susa;TI"	year;TI"	2014;T;[I"Aicardi Irene;TI"Boccardo Piero;TI"Chiabrando Filiberto;TI"Donadio Elisabetta;TI"Lingua Andrea;TI"Maschio Paolo;TI"Noardo Francesca;TI"SpanÃ³ Antonia;T;I"HAtti di: 18 Conferenza nazionale ASITA, Firenze, 14-16 ottobre 2014;T;#I"2018-11-05 14:45:16 +0100;T;$I"2018-11-05 14:45:16 +0100;T;%I"9DIRECT team; RPAS; Digital Photogrammetry; 3D models;T;I"
-ASITA;T;I"Rilievo metrico 3d multiscala per lâ€™indagine e la rappresentazione architettonica e ambientale dellâ€™area archeologica di susa;T;I"	2014;T:11583_2602576{;o;;o;	;
-@	;i†;I"inproceedings;T;@;I"11583_2602576;F;{I"author;TI"/Lingua, A. M. and Noardo, F. and Vigna, B.;TI"booktitle;TI"\Atti della XVIII Conferenza ASITA XVIII Firenze 14-16 ottobre 2014, ISBN: 9788890313295;TI"date-added;TI"2018-11-05 14:45:16 +0100;TI"date-modified;TI"2018-11-05 14:45:16 +0100;TI"
-pages;TI"767-774;TI"
-title;TI"pIl monitoraggio della copertura nevosa da dati satellitari per lo studio delle risorse idriche sotterranee.;TI"	year;TI"	2014;T;[I"A. M. Lingua;TI"F. Noardo;TI"B. Vigna;T;I"\Atti della XVIII Conferenza ASITA XVIII Firenze 14-16 ottobre 2014, ISBN: 9788890313295;T;#I"2018-11-05 14:45:16 +0100;T;$I"2018-11-05 14:45:16 +0100;T;I"767-774;T;I"pIl monitoraggio della copertura nevosa da dati satellitari per lo studio delle risorse idriche sotterranee.;T;I"	2014;T:11583_2709572{;o;;o;	;
-@	;i:;I"inproceedings;T;@;I"11583_2709572;F;{I"author;TI"Boscolo Bozza, Erika Angela and Di Pietra, Vincenzo and Lingua, Andrea Maria and Musci, Maria Angela and Noardo, Francesca;TI"booktitle;TI"#21a Conferenza Nazionale ASITA;TI"date-added;TI"2018-11-05 14:45:16 +0100;TI"date-modified;TI"2018-11-05 14:45:16 +0100;TI"keywords;TI"2Fotogrammetria, GIS, monitoraggio, discariche;TI"
-pages;TI"161--164;TI"publisher;TI"gFederazione italiana delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali;TI"
-title;TI"OFotogrammetria e strumenti GIS per il monitoraggio dei volumi in discarica;TI"url;TI"3http://atti.asita.it/ASITA2017/Autori/370.html;TI"	year;TI"	2017;TI"bdsk-url-1;TI"3http://atti.asita.it/ASITA2017/Autori/370.html;T;[
-I"Erika Angela Boscolo Bozza;TI"Vincenzo Di Pietra;TI"Andrea Maria Lingua;TI"Maria Angela Musci;TI"Francesca Noardo;T;I"#21a Conferenza Nazionale ASITA;T;#I"2018-11-05 14:45:16 +0100;T;$I"2018-11-05 14:45:16 +0100;T;%I"2Fotogrammetria, GIS, monitoraggio, discariche;T;I"161â€“164;T;I"gFederazione italiana delle Associazioni Scientifiche per le Informazioni Territoriali e Ambientali;T;I"OFotogrammetria e strumenti gis per il monitoraggio dei volumi in discarica;T;&I"3http://atti.asita.it/ASITA2017/Autori/370.html;T;I"	2017;T; I"3http://atti.asita.it/ASITA2017/Autori/370.html;T:11583_2707532{;o;;o;	;
-@	;i;I"inproceedings;T;@;I"11583_2707532;F;{I"author;TI"cChiabrando, F. and Colucci, E. and Lingua, A. and Matrone, F. and Noardo, F. and Span{\'o}, A.;TI"booktitle;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 14:45:16 +0100;TI"date-modified;TI"2019-07-02 16:44:40 +0200;TI"doi;TI".10.5194/isprs-archives-XLII-3-W4-151-2018;TI"keywords;TI"|Cultural Heritage; Database; Disaster management; Resilience; Risk; Information Systems; Geography, Planning and Development;TI"number;TI"3;TI"
-pages;TI"151--158;TI"
-title;TI"ZA {E}uropean interoperable database (EID) to increase resilience of cultural heritage;TI"url;TI"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;TI"volume;TI"42;TI"oa;TI"	True;TI"	year;TI"	2018;TI"bdsk-url-1;TI"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;TI"bdsk-url-2;TI">https://doi.org/10.5194/isprs-archives-XLII-3-W4-151-2018;T;[I"F. Chiabrando;TI"E. Colucci;TI"A. Lingua;TI"F. Matrone;TI"F. Noardo;TI"A. SpanÃ³;T;I"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;#I"2018-11-05 14:45:16 +0100;T;$I"2019-07-02 16:44:40 +0200;T;I".10.5194/isprs-archives-XLII-3-W4-151-2018;T;%I"|Cultural Heritage; Database; Disaster management; Resilience; Risk; Information Systems; Geography, Planning and Development;T;I"3;T;I"151â€“158;T;I"XA European interoperable database (eid) to increase resilience of cultural heritage;T;&I"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;T;I"42;T;I"	True;T;I"	2018;T; I"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;T;'I">https://doi.org/10.5194/isprs-archives-XLII-3-W4-151-2018;T:11583_2676967{;o;;o;	;
-@	;i¢;I"incollection;T;@;I"11583_2676967;F;{I"author;TI"iAicardi, Irene and Gandino, Filippo and Grasso, Nives and Lingua, Andrea Maria and Noardo, Francesca;TI"booktitle;TI"=Computational Science and Its Applications -- ICCSA 2017;TI"date-added;TI"2018-11-05 14:45:16 +0100;TI"date-modified;TI"2018-11-05 16:01:18 +0100;TI"doi;TI" 10.1007/978-3-319-62401-3_9;TI"	isbn;TI"978-3-319-62400-6;TI"keywords;TI"denvironmental monitoring, low-cost sensors, pollution, semantic data management, dynamic scenes;TI"
-pages;TI"105--120;TI"publisher;TI"&Springer International Publishing;TI"series;TI"&Lecture Notes in Computer Science;TI"
-title;TI"XA Low-Cost Solution for the Monitoring of Air Pollution Parameters Through Bicycles;TI"url;TI"uhttps://www.springerprofessional.de/en/a-low-cost-solution-for-the-monitoring-of-air-pollution-paramete/13311936;TI"volume;TI"
-10407;TI"	year;TI"	2017;TI"bdsk-url-1;TI"uhttps://www.springerprofessional.de/en/a-low-cost-solution-for-the-monitoring-of-air-pollution-paramete/13311936;TI"bdsk-url-2;TI"0https://doi.org/10.1007/978-3-319-62401-3_9;T;[
-I"Irene Aicardi;TI"Filippo Gandino;TI"Nives Grasso;TI"Andrea Maria Lingua;TI"Francesca Noardo;T;I">Computational Science and Its Applications â€“ ICCSA 2017;T;#I"2018-11-05 14:45:16 +0100;T;$I"2018-11-05 16:01:18 +0100;T;I" 10.1007/978-3-319-62401-3_9;T:	isbnI"978-3-319-62400-6;T;%I"denvironmental monitoring, low-cost sensors, pollution, semantic data management, dynamic scenes;T;I"105â€“120;T;I"&Springer International Publishing;T;I"&Lecture Notes in Computer Science;T;I"XA low-cost solution for the monitoring of air pollution parameters through bicycles;T;&I"uhttps://www.springerprofessional.de/en/a-low-cost-solution-for-the-monitoring-of-air-pollution-paramete/13311936;T;I"
-10407;T;I"	2017;T; I"uhttps://www.springerprofessional.de/en/a-low-cost-solution-for-the-monitoring-of-air-pollution-paramete/13311936;T;'I"0https://doi.org/10.1007/978-3-319-62401-3_9;T:11583_2644378{;o;;o;	;
-@	;i¹;I"phdthesis;T;@;I"11583_2644378;F;{I"author;TI"Noardo, Francesca;TI"date-added;TI"2018-11-05 14:45:16 +0100;TI"date-modified;TI"2018-11-05 14:45:41 +0100;TI"keywords;TI"§Architectural heritage, documentation, cultural heritage, semantics, ontology, standard, 3D model, CityGML, interoperability, Application Domain Extension, information;TI"school;TI""Politecnico di Torino (Italy);TI"
-title;TI"2Spatial ontologies for architectural heritage;TI"url;TI"fhttps://iris.polito.it/retrieve/handle/11583/2644378/206633/SpatialOntologiesAH_complete_last.pdf;TI"	year;TI"	2016;TI"bdsk-url-1;TI"fhttps://iris.polito.it/retrieve/handle/11583/2644378/206633/SpatialOntologiesAH_complete_last.pdf;T;[I"Francesca Noardo;T;#I"2018-11-05 14:45:16 +0100;T;$I"2018-11-05 14:45:41 +0100;T;%I"§Architectural heritage, documentation, cultural heritage, semantics, ontology, standard, 3D model, CityGML, interoperability, Application Domain Extension, information;T:schoolI""Politecnico di Torino (Italy);T;I"2Spatial ontologies for architectural heritage;T;&I"fhttps://iris.polito.it/retrieve/handle/11583/2644378/206633/SpatialOntologiesAH_complete_last.pdf;T;I"	2016;T; I"fhttps://iris.polito.it/retrieve/handle/11583/2644378/206633/SpatialOntologiesAH_complete_last.pdf;T:11583_2646657{;o;;o;	;
-@	;iW;I"inproceedings;T;@;I"11583_2646657;F;{I"author;TI"xChiabrando, F. and Di Pietra, V. and Lingua, A. and Maschio, P. and Noardo, F. and Sammartano, G. and Span{\'o}, A.;TI"booktitle;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 14:44:27 +0100;TI"date-modified;TI"2018-11-05 14:45:04 +0100;TI"doi;TI"+10.5194/isprs-archives-XLI-B5-413-2016;TI"keywords;TI"[TLS, UAV photogrammetry, 3D modelling, techniques fusion, data fusion, Alpine Heritage;TI"oa;TI"	True;TI"
-pages;TI"413--420;TI"publisher;TI"COPERNICUS;TI"
-title;TI"1TLS models generation assisted by UAV survey;TI"url;TI"http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B5/413/2016/ doi:10.5194/isprs-archives-XLI-B5-413-2016;TI"volume;TI"XLI-B5;TI"	year;TI"	2016;TI"bdsk-url-1;TI"|http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B5/413/2016/%20doi:10.5194/isprs-archives-XLI-B5-413-2016;TI"bdsk-url-2;TI";https://doi.org/10.5194/isprs-archives-XLI-B5-413-2016;T;[I"F. Chiabrando;TI"V. Di Pietra;TI"A. Lingua;TI"P. Maschio;TI"F. Noardo;TI"G. Sammartano;TI"A. SpanÃ³;T;I"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;#I"2018-11-05 14:44:27 +0100;T;$I"2018-11-05 14:45:04 +0100;T;I"+10.5194/isprs-archives-XLI-B5-413-2016;T;%I"[TLS, UAV photogrammetry, 3D modelling, techniques fusion, data fusion, Alpine Heritage;T;I"	True;T;I"413â€“420;T;I"COPERNICUS;T;I"1Tls models generation assisted by uav survey;T;&I"http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B5/413/2016/ doi:10.5194/isprs-archives-XLI-B5-413-2016;T;I"XLI-B5;T;I"	2016;T; I"|http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B5/413/2016/%20doi:10.5194/isprs-archives-XLI-B5-413-2016;T;'I";https://doi.org/10.5194/isprs-archives-XLI-B5-413-2016;T:11583_2628330{;o;;o;	;
-@	;iS;I"inproceedings;T;@;I"11583_2628330;F;{I"author;TI"~Lingua, Andrea Maria and Piras, Marco and Noardo, Francesca and Grasso, Nives and Verda, Vittorio and Musci, Maria Angela;TI"booktitle;TI"mAtti della XIX Conferenza Nazionale ASITA, Lecco 29 settembre -- 1 ottobre 2015. ISBN:978-88-941232-2-7.;TI"date-added;TI"2018-11-05 14:44:27 +0100;TI"date-modified;TI"2018-11-05 14:44:27 +0100;TI"keywords;TI"#GIS, INSPIRE, incendi, foreste;TI"
-pages;TI"517--522;TI"publisher;TI"
-ASITA;TI"
-title;TI"lStudio e sviluppo di un GIS per la gestione della lotta dei grandi incendi secondo la direttiva INSPIRE;TI"url;TI"/http://atti.asita.it/ASITA2015/Pdf/037.pdf;TI"	year;TI"	2015;TI"bdsk-url-1;TI"/http://atti.asita.it/ASITA2015/Pdf/037.pdf;T;[I"Andrea Maria Lingua;TI"Marco Piras;TI"Francesca Noardo;TI"Nives Grasso;TI"Vittorio Verda;TI"Maria Angela Musci;T;I"nAtti della XIX Conferenza Nazionale ASITA, Lecco 29 settembre â€“ 1 ottobre 2015. ISBN:978-88-941232-2-7.;T;#I"2018-11-05 14:44:27 +0100;T;$I"2018-11-05 14:44:27 +0100;T;%I"#GIS, INSPIRE, incendi, foreste;T;I"517â€“522;T;I"
-ASITA;T;I"lStudio e sviluppo di un gis per la gestione della lotta dei grandi incendi secondo la direttiva inspire;T;&I"/http://atti.asita.it/ASITA2015/Pdf/037.pdf;T;I"	2015;T; I"/http://atti.asita.it/ASITA2015/Pdf/037.pdf;T:11583_2614648{;o;;o;	;
-@	;i";I"inproceedings;T;@;I"11583_2614648;F;{I"author;TI"Noardo, F.;TI"booktitle;TI"WAtti della XVIII Conferenza ASITA, Firenze 14-16 ottobre 2014 ISBN: 9788890313295.;TI"date-added;TI"2018-11-05 14:44:27 +0100;TI"date-modified;TI"2018-11-05 14:44:27 +0100;TI"
-pages;TI"899--906;TI"
-title;TI"pStrutturazione dei dati di un GIS in ontologia: applicazione per la mappatura del degrado di un caso studio;TI"	year;TI"	2014;T;[I"F. Noardo;T;I"WAtti della XVIII Conferenza ASITA, Firenze 14-16 ottobre 2014 ISBN: 9788890313295.;T;#I"2018-11-05 14:44:27 +0100;T;$I"2018-11-05 14:44:27 +0100;T;I"899â€“906;T;I"pStrutturazione dei dati di un gis in ontologia: applicazione per la mappatura del degrado di un caso studio;T;I"	2014;T:11583_2602574{;o;;o;	;
-@	;i©#;I"inproceedings;T;@;I"11583_2602574;F;{I"author;TI"Lingua, A. and Noardo, F.;TI"booktitle;TI"ˆProceedings of the 1st International inproceedings on Geographical Information Systems Theory, Applications and Management (GISTAM-2015);TI"date-added;TI"2018-11-05 14:44:27 +0100;TI"date-modified;TI"2018-11-05 14:44:27 +0100;TI"doi;TI"10.5220/0005379002130220;TI"keywords;TI"VGeographic Information Systems; Geoprocessing; Ontology; Digita maps; Geodatabase;TI"
-pages;TI"213--220;TI"publisher;TI";SCITEPRESS - Science and Technology Publications, Lda.;TI"
-title;TI"{A Semantic Geodatabase for Environment Analysis - Extraction, Management and Sharing of Earth and Water Information in GIS.;TI"url;TI"nhttps://www.researchgate.net/publication/292990561_A_Semantic_Geodatabase_for_Environment_Analysis_Extraction_Management_and_Sharing_of_Earth_and_Water_Information_in_GIS?_sg=yhFW5q1qx0__R5jSi-tlNO72t0lIAMz11bqfFaP5AM4HheCFh9aqIokcHNIkcBwgNlrvRWF84GArf_Uhx5c7UtuUxaOtPM1B43obgyQC.qLojC5A_eWF0zWtquQe1gAyoWvlOfgOti0-BGhWLCugUfSgvntp7yh-XV1aUsVJtKy5lv7aiX5hWx7rOGtU8Sw;TI"	year;TI"	2015;TI"bdsk-url-1;TI"-https://doi.org/10.5220/0005379002130220;T;[I"A. Lingua;TI"F. Noardo;T;I"ˆProceedings of the 1st International inproceedings on Geographical Information Systems Theory, Applications and Management (GISTAM-2015);T;#I"2018-11-05 14:44:27 +0100;T;$I"2018-11-05 14:44:27 +0100;T;I"10.5220/0005379002130220;T;%I"VGeographic Information Systems; Geoprocessing; Ontology; Digita maps; Geodatabase;T;I"213â€“220;T;I";SCITEPRESS - Science and Technology Publications, Lda.;T;I"{A semantic geodatabase for environment analysis - extraction, management and sharing of earth and water information in gis.;T;&I"nhttps://www.researchgate.net/publication/292990561_A_Semantic_Geodatabase_for_Environment_Analysis_Extraction_Management_and_Sharing_of_Earth_and_Water_Information_in_GIS?_sg=yhFW5q1qx0__R5jSi-tlNO72t0lIAMz11bqfFaP5AM4HheCFh9aqIokcHNIkcBwgNlrvRWF84GArf_Uhx5c7UtuUxaOtPM1B43obgyQC.qLojC5A_eWF0zWtquQe1gAyoWvlOfgOti0-BGhWLCugUfSgvntp7yh-XV1aUsVJtKy5lv7aiX5hWx7rOGtU8Sw;T;I"	2015;T; I"-https://doi.org/10.5220/0005379002130220;T:11583_2620593{;o;;o;	;
-@	;i(;I"inbook;T;@;I"11583_2620593;F;{I"address;TI"Susa (TO);TI"author;TI"§Aicardi, Irene and Boccardo, Piero and Chiabrando, Filiberto and Donadio, Elisabetta and Lingua, Andrea and Maschio, Paolo and Noardo, Francesca and Span{\'o}, Antonia;TI"booktitle;TI"PL'arco di Susa e i monumenti della propaganda imperiale in et{\'a} augustea;TI"date-added;TI"2018-11-05 14:42:49 +0100;TI"date-modified;TI"2018-11-05 14:42:49 +0100;TI"	isbn;TI"9788890785948;TI"keywords;TI"<3D model, UAV photogrammetry, Orthoimages, DEM, TLS, CH;TI"
-pages;TI"195--216;TI"publisher;TI"2Segusium - Soc. di Ricerche e Studi Valsusini;TI"
-title;TI"4Modelli 3D multisensore per l'acropoli segusina;TI"url;TI"chttp://www.segusium.org/images/Monografie_sulla_Valle_di_Susa_edite_da_Segusium.aggiornato.pdf;TI"volume;TI")numero speciale luglio 2015 anno LII;TI"	year;TI"	2015;TI"bdsk-url-1;TI"chttp://www.segusium.org/images/Monografie_sulla_Valle_di_Susa_edite_da_Segusium.aggiornato.pdf;T:addressI"Susa (TO);T;[I"Irene Aicardi;TI"Piero Boccardo;TI"Filiberto Chiabrando;TI"Elisabetta Donadio;TI"Andrea Lingua;TI"Paolo Maschio;TI"Francesca Noardo;TI"Antonia SpanÃ³;T;I"OLâ€™arco di Susa e i monumenti della propaganda imperiale in etÃ¡ augustea;T;#I"2018-11-05 14:42:49 +0100;T;$I"2018-11-05 14:42:49 +0100;T;-I"9788890785948;T;%I"<3D model, UAV photogrammetry, Orthoimages, DEM, TLS, CH;T;I"195â€“216;T;I"2Segusium - Soc. di Ricerche e Studi Valsusini;T;I"6Modelli 3d multisensore per lâ€™acropoli segusina;T;&I"chttp://www.segusium.org/images/Monografie_sulla_Valle_di_Susa_edite_da_Segusium.aggiornato.pdf;T;I")numero speciale luglio 2015 anno LII;T;I"	2015;T; I"chttp://www.segusium.org/images/Monografie_sulla_Valle_di_Susa_edite_da_Segusium.aggiornato.pdf;T:11583_2602575{;o;;o;	;
-@	;i°+;I"inproceedings;T;@;I"11583_2602575;F;{I"author;TI"1Cerutti, E. and Noardo, F. and Span{\'o}, A.;TI"booktitle;TI"ˆProceedings of the 1st International inproceedings on Geographical Information Systems Theory, Applications and Management (GISTAM-2015);TI"date-added;TI"2018-11-05 14:42:49 +0100;TI"date-modified;TI"2018-11-05 14:42:49 +0100;TI"doi;TI"10.5220/0005387801210128;TI"keywords;TI"lSemantics; Standards; Images; GIS; Interoperability; PostGIS; Cultural Heritage; Architectural Heritage;TI"
-pages;TI"121--128;TI"publisher;TI";SCITEPRESS - Science and Technology Publications, Lda.;TI"
-title;TI"FArchitectural Heritage Semantic Data Managing and Sharing in GIS.;TI"url;TI"xhttps://www.researchgate.net/publication/283149811_Architectural_Heritage_Semantic_Data_Managing_and_Sharing_in_GIS;TI"	year;TI"	2015;TI"bdsk-url-1;TI"-https://doi.org/10.5220/0005387801210128;T;[I"E. Cerutti;TI"F. Noardo;TI"A. SpanÃ³;T;I"ˆProceedings of the 1st International inproceedings on Geographical Information Systems Theory, Applications and Management (GISTAM-2015);T;#I"2018-11-05 14:42:49 +0100;T;$I"2018-11-05 14:42:49 +0100;T;I"10.5220/0005387801210128;T;%I"lSemantics; Standards; Images; GIS; Interoperability; PostGIS; Cultural Heritage; Architectural Heritage;T;I"121â€“128;T;I";SCITEPRESS - Science and Technology Publications, Lda.;T;I"FArchitectural heritage semantic data managing and sharing in gis.;T;&I"xhttps://www.researchgate.net/publication/283149811_Architectural_Heritage_Semantic_Data_Managing_and_Sharing_in_GIS;T;I"	2015;T; I"-https://doi.org/10.5220/0005387801210128;T:11583_2630054{;o;;o;	;
-@	;i/;I"inproceedings;T;@;I"11583_2630054;F;{I"author;TI"Noardo, F.;TI"booktitle;TI"mAtti della XIX Conferenza Nazionale ASITA, Lecco 29 settembre -- 1 ottobre 2015. ISBN:978-88-941232-2-7.;TI"date-added;TI"2018-11-05 14:42:49 +0100;TI"date-modified;TI"2018-11-05 14:42:49 +0100;TI"keywords;TI">Ontologie, GIS, Beni architettonici, standard, modelli 3D;TI"
-pages;TI"893--900;TI"
-title;TI"TOntologie e modelli di dati per l'informazione spaziale dei Beni Architettonici;TI"	year;TI"	2015;T;[I"F. Noardo;T;I"nAtti della XIX Conferenza Nazionale ASITA, Lecco 29 settembre â€“ 1 ottobre 2015. ISBN:978-88-941232-2-7.;T;#I"2018-11-05 14:42:49 +0100;T;$I"2018-11-05 14:42:49 +0100;T;%I">Ontologie, GIS, Beni architettonici, standard, modelli 3D;T;I"893â€“900;T;I"VOntologie e modelli di dati per lâ€™informazione spaziale dei beni architettonici;T;I"	2015;T:11583_2691848{;o;;o;	;
-@	;iÚ0;I"inproceedings;T;@;I"11583_2691848;F;{I"author;TI"yLingua, Andrea Maria and Noardo, Francesca and Span{\'o}, Antonia Teresa and Sanna, Salvatore and Matrone, Francesca;TI"booktitle;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 14:42:49 +0100;TI"date-modified;TI"2018-11-05 14:44:08 +0100;TI"doi;TI".10.5194/isprs-archives-XLII-4-W2-107-2017;TI"keywords;TI"Cultural heritage; Flight plan; Oblique images; Open source; SfM; UAV; Information Systems; Geography, Planning and Development;TI"oa;TI"	True;TI"number;TI"	4/W2;TI"
-pages;TI"107--115;TI"
-title;TI"=3D model generation using oblique images acquired by UAV;TI"url;TI"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;TI"volume;TI"42;TI"	year;TI"	2017;TI"bdsk-url-1;TI"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;TI"bdsk-url-2;TI">https://doi.org/10.5194/isprs-archives-XLII-4-W2-107-2017;T;[
-I"Andrea Maria Lingua;TI"Francesca Noardo;TI"Antonia Teresa SpanÃ³;TI"Salvatore Sanna;TI"Francesca Matrone;T;I"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;#I"2018-11-05 14:42:49 +0100;T;$I"2018-11-05 14:44:08 +0100;T;I".10.5194/isprs-archives-XLII-4-W2-107-2017;T;%I"Cultural heritage; Flight plan; Oblique images; Open source; SfM; UAV; Information Systems; Geography, Planning and Development;T;I"	True;T;I"	4/W2;T;I"107â€“115;T;I"=3d model generation using oblique images acquired by uav;T;&I"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;T;I"42;T;I"	2017;T; I"4http://www.isprs.org/proceedings/XXXVIII/4-W15/;T;'I">https://doi.org/10.5194/isprs-archives-XLII-4-W2-107-2017;T:11583_2648667{;o;;o;	;
-@	;im4;I"inproceedings;T;@;I"11583_2648667;F;{I"author;TI"_Arco, E. and Boccardo, P. and Gandino, F. and Lingua, A. and Noardo, F. and Rebaudengo, M.;TI"booktitle;TI"hISPRS - International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 14:40:44 +0100;TI"date-modified;TI"2018-11-05 14:41:31 +0100;TI"doi;TI")10.5194/isprs-annals-IV-4-W1-67-2016;TI"keywords;TI"qPollution, Semantic web, Environmental monitoring, dynamic sensors, standard data models, internet of things;TI"
-pages;TI"67--74;TI"publisher;TI"Copernicus publications;TI"
-title;TI"]An integrated approach for pollution monitoring: smart acquirement and smart information;TI"url;TI"uhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/67/2016/isprs-annals-IV-4-W1-67-2016.pdf;TI"volume;TI"III-4/W1;TI"	year;TI"	2016;TI"bdsk-url-1;TI"uhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/67/2016/isprs-annals-IV-4-W1-67-2016.pdf;TI"bdsk-url-2;TI"9https://doi.org/10.5194/isprs-annals-IV-4-W1-67-2016;T;[I"E. Arco;TI"P. Boccardo;TI"F. Gandino;TI"A. Lingua;TI"F. Noardo;TI"M. Rebaudengo;T;I"hISPRS - International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;#I"2018-11-05 14:40:44 +0100;T;$I"2018-11-05 14:41:31 +0100;T;I")10.5194/isprs-annals-IV-4-W1-67-2016;T;%I"qPollution, Semantic web, Environmental monitoring, dynamic sensors, standard data models, internet of things;T;I"67â€“74;T;I"Copernicus publications;T;I"]An integrated approach for pollution monitoring: smart acquirement and smart information;T;&I"uhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/67/2016/isprs-annals-IV-4-W1-67-2016.pdf;T;I"III-4/W1;T;I"	2016;T; I"uhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/67/2016/isprs-annals-IV-4-W1-67-2016.pdf;T;'I"9https://doi.org/10.5194/isprs-annals-IV-4-W1-67-2016;T:11583_2531487{;o;;o;	;
-@	;iu8;I"inproceedings;T;@;I"11583_2531487;F;{I"address;TI"Milano;TI"author;TI",Lingua, A. and Noardo, F. and Vigna, B.;TI"booktitle;TI"aAtti della XVII conferenza ASITA, Riva del Garda (TN) 5-7 novembre 2013, ISBN: 9788890313288;TI"date-added;TI"2018-11-05 14:40:44 +0100;TI"date-modified;TI"2018-11-05 16:03:18 +0100;TI"
-pages;TI"869--876;TI"publisher;TI"Federazione ASITA;TI"
-title;TI"{Un nuovo approccio per la gestione delle risorse idriche sotterranee in ambito transfrontaliero: Prog. ALCOTRA-ALIRHYS;TI"volume;TI"
-unico;TI"	year;TI"	2013;T;5I"Milano;T;[I"A. Lingua;TI"F. Noardo;TI"B. Vigna;T;I"aAtti della XVII conferenza ASITA, Riva del Garda (TN) 5-7 novembre 2013, ISBN: 9788890313288;T;#I"2018-11-05 14:40:44 +0100;T;$I"2018-11-05 16:03:18 +0100;T;I"869â€“876;T;I"Federazione ASITA;T;I"{Un nuovo approccio per la gestione delle risorse idriche sotterranee in ambito transfrontaliero: prog. alcotra-alirhys;T;I"
-unico;T;I"	2013;T:11583_2556559{;o;;o;	;
-@	;i:;I"inproceedings;T;@;I"11583_2556559;F;{I"author;TI"CChiabrando, F. and Lingua, A. and Noardo, F. and Span{\'o}, A.;TI"booktitle;TI"hISPRS - International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 14:40:44 +0100;TI"date-modified;TI"2018-11-05 14:42:06 +0100;TI"doi;TI"%10.5194/isprsannals-II-5-97-2014;TI"keywords;TI"uimage matching; Digital Photogrammetry; area-based-matching; feature-matching; TLS; 3D models; Cultural Heritage;TI"
-pages;TI"97--104;TI"publisher;TI"Copernicus GmbH;TI"
-title;TI"S3D Modelling of trompe l'oeil decorated vaults using dense matching techniques;TI"url;TI"nhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5/97/2014/isprsannals-II-5-97-2014.pdf;TI"volume;TI"II-5, 2014;TI"	year;TI"	2014;TI"bdsk-url-1;TI"nhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5/97/2014/isprsannals-II-5-97-2014.pdf;TI"bdsk-url-2;TI"5https://doi.org/10.5194/isprsannals-II-5-97-2014;T;[	I"F. Chiabrando;TI"A. Lingua;TI"F. Noardo;TI"A. SpanÃ³;T;I"hISPRS - International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;#I"2018-11-05 14:40:44 +0100;T;$I"2018-11-05 14:42:06 +0100;T;I"%10.5194/isprsannals-II-5-97-2014;T;%I"uimage matching; Digital Photogrammetry; area-based-matching; feature-matching; TLS; 3D models; Cultural Heritage;T;I"97â€“104;T;I"Copernicus GmbH;T;I"U3d modelling of trompe lâ€™oeil decorated vaults using dense matching techniques;T;&I"nhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5/97/2014/isprsannals-II-5-97-2014.pdf;T;I"II-5, 2014;T;I"	2014;T; I"nhttp://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-5/97/2014/isprsannals-II-5-97-2014.pdf;T;'I"5https://doi.org/10.5194/isprsannals-II-5-97-2014;T:11583_2630051{;o;;o;	;
-@	;iL>;I"inproceedings;T;@;I"11583_2630051;F;{I"author;TI"ACerutti, E. and Donadio, E. and Noardo, F. and Span{\'o}, A.;TI"booktitle;TI"ŸHeritage and landscape as human values. Conference Proceedings, ICOMOS 18th General Assembly - Symposium Firenze, Italia 9/14 November 2014. ISBN:9788849530575;TI"date-added;TI"2018-11-05 14:37:59 +0100;TI"date-modified;TI"2018-11-05 14:47:09 +0100;TI"keywords;TI"JGIS, stratigraphy, open source tools, 3D models, reality based models;TI"
-pages;TI"533--539;TI"publisher;TI"'Edizioni Scientifiche Italiane spa;TI"
-title;TI"^Strategies for data storing in CH conservation plans. Facades analyses in GIS environment;TI"	year;TI"	2015;T;[	I"E. Cerutti;TI"E. Donadio;TI"F. Noardo;TI"A. SpanÃ³;T;I"ŸHeritage and landscape as human values. Conference Proceedings, ICOMOS 18th General Assembly - Symposium Firenze, Italia 9/14 November 2014. ISBN:9788849530575;T;#I"2018-11-05 14:37:59 +0100;T;$I"2018-11-05 14:47:09 +0100;T;%I"JGIS, stratigraphy, open source tools, 3D models, reality based models;T;I"533â€“539;T;I"'Edizioni Scientifiche Italiane spa;T;I"^Strategies for data storing in ch conservation plans. facades analyses in gis environment;T;I"	2015;T:11583_2630074{;o;;o;	;
-@	;iÑ@;I"	misc;T;@;I"11583_2630074;F;{I"author;TI"òAicardi, I. and Assaba, M. and Audra, P. and Banzato, C. and Bianco, F. and Fiorucci, A. and Gourbesville, P. and Laborde, J. P. and Lingua, A. and Maschio, P. and Marchionatti, F. and Menegatti, S. and Moitre, B. and Noardo, F. and Vigna, B.;TI"date-added;TI"2018-11-05 14:37:59 +0100;TI"date-modified;TI"2019-07-02 16:45:43 +0200;TI"	isbn;TI"978-88-98878-10-9;TI"keywords;TI"gRisorse idriche sotterranee, Sorgenti, cambiamenti climatici, monitoraggio ambientale, GIS, WebGIS, acqua, progetto transfrontaliero, INSPIRE, DTM, armonizzazione cartografica, neve, Ressources Hydriques souterraine, sources, clime changements climatiques, surveillance de l'environnement, SIG, eau, projet transfrontalier, harmonisation cartographique, neige;TI"publisher;TI"Regione Piemonte;TI"
-title;TI"UProgetto ALIRHYS, Alpi Latine identificazione delle risorse Hydrique Sotterranee;TI"url;TI"`http://areeweb.polito.it/ricerca/ALIRHYS/wp-includes/pdf/ALIRHYS_PUBBLICAZIONE_FRANCESE.pdf;TI"	year;TI"	2015;TI"bdsk-url-1;TI"`http://areeweb.polito.it/ricerca/ALIRHYS/wp-includes/pdf/ALIRHYS_PUBBLICAZIONE_FRANCESE.pdf;T;[I"I. Aicardi;TI"M. Assaba;TI"P. Audra;TI"C. Banzato;TI"F. Bianco;TI"A. Fiorucci;TI"P. Gourbesville;TI"J. P. Laborde;TI"A. Lingua;TI"P. Maschio;TI"F. Marchionatti;TI"S. Menegatti;TI"B. Moitre;TI"F. Noardo;TI"B. Vigna;T;#I"2018-11-05 14:37:59 +0100;T;$I"2019-07-02 16:45:43 +0200;T;-I"978-88-98878-10-9;T;%I"iRisorse idriche sotterranee, Sorgenti, cambiamenti climatici, monitoraggio ambientale, GIS, WebGIS, acqua, progetto transfrontaliero, INSPIRE, DTM, armonizzazione cartografica, neve, Ressources Hydriques souterraine, sources, clime changements climatiques, surveillance de lâ€™environnement, SIG, eau, projet transfrontalier, harmonisation cartographique, neige;T;I"Regione Piemonte;T;I"UProgetto alirhys, alpi latine identificazione delle risorse hydrique sotterranee;T;&I"`http://areeweb.polito.it/ricerca/ALIRHYS/wp-includes/pdf/ALIRHYS_PUBBLICAZIONE_FRANCESE.pdf;T;I"	2015;T; I"`http://areeweb.polito.it/ricerca/ALIRHYS/wp-includes/pdf/ALIRHYS_PUBBLICAZIONE_FRANCESE.pdf;T:11583_2676389{;o;;o;	;
-@	;i5E;I"incollection;T;@;I"11583_2676389;F;{I"author;TI"Noardo, Francesca;TI"booktitle;TI"/GISTAM 2016 - Revised Selected Best Papers;TI"date-added;TI"2018-11-05 14:37:59 +0100;TI"date-modified;TI"2018-11-05 14:37:59 +0100;TI"doi;TI" 10.1007/978-3-319-62618-5_9;TI"editor;TI"5Grueau, C. and Gustavo Rocha, J. and Laurini, R.;TI"	isbn;TI"978-3-319-62617-8;TI"keywords;TI"gSemantics; Standard; Ontologies; 3D Model; CityGML; Interop-erability; ADE; Architectural Heritage;TI"local-url;TI"qhttps://www.researchgate.net/publication/318302308_A_Spatial_Ontology_for_Architectural_Heritage_Information;TI"
-pages;TI"143--163;TI"publisher;TI"&Springer International Publishing;TI"series;TI"CCIS Book Series;TI"
-title;TI">A Spatial Ontology for Architectural Heritage Information;TI"url;TI"qhttps://www.researchgate.net/publication/318302308_A_Spatial_Ontology_for_Architectural_Heritage_Information;TI"volume;TI"741;TI"	year;TI"	2017;TI"bdsk-url-1;TI"khttps://www.springerprofessional.de/a-spatial-ontology-for-architectural-heritage-information/13290152;TI"bdsk-url-2;TI"0https://doi.org/10.1007/978-3-319-62618-5_9;T;[I"Francesca Noardo;T;I"/GISTAM 2016 - Revised Selected Best Papers;T;#I"2018-11-05 14:37:59 +0100;T;$I"2018-11-05 14:37:59 +0100;T;I" 10.1007/978-3-319-62618-5_9;T:editor[I"C. Grueau;TI"J. Gustavo Rocha;TI"R. Laurini;T;-I"978-3-319-62617-8;T;%I"gSemantics; Standard; Ontologies; 3D Model; CityGML; Interop-erability; ADE; Architectural Heritage;T:local-urlI"qhttps://www.researchgate.net/publication/318302308_A_Spatial_Ontology_for_Architectural_Heritage_Information;T;I"143â€“163;T;I"&Springer International Publishing;T;I"CCIS Book Series;T;I">A spatial ontology for architectural heritage information;T;&I"qhttps://www.researchgate.net/publication/318302308_A_Spatial_Ontology_for_Architectural_Heritage_Information;T;I"741;T;I"	2017;T; I"khttps://www.springerprofessional.de/a-spatial-ontology-for-architectural-heritage-information/13290152;T;'I"0https://doi.org/10.1007/978-3-319-62618-5_9;T:11583_2651736{;o;;o;	;
-@	;inI;I"inproceedings;T;@;I"11583_2651736;F;{I"author;TI"Noardo, Francesca;TI"booktitle;TI"ˆGISTAM 2016 - Proceedings of the 2nd International inproceedings on Geographical Information Systems Theory, Applications and Management;TI"date-added;TI"2018-11-05 14:37:59 +0100;TI"date-modified;TI"2018-11-05 14:37:59 +0100;TI"doi;TI"10.5220/0005830901680179;TI"keywords;TI"f3D model; ADE; Architectural heritage; CityGML; Interoperability; Ontologies; Semantics; Standard;TI"local-url;TI"|https://www.researchgate.net/publication/302973599_Architectural_Heritage_Ontology_-_Concepts_and_Some_Practical_Issues;TI"
-pages;TI"168--179;TI"publisher;TI"SciTePress;TI"
-title;TI"IArchitectural heritage ontology - concepts and some practical issues;TI"url;TI"[http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=eLdIVcnx6ys%3d&t=1;TI"	year;TI"	2016;TI"bdsk-url-1;TI"[http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=eLdIVcnx6ys%3d&t=1;TI"bdsk-url-2;TI"-https://doi.org/10.5220/0005830901680179;T;[I"Francesca Noardo;T;I"ˆGISTAM 2016 - Proceedings of the 2nd International inproceedings on Geographical Information Systems Theory, Applications and Management;T;#I"2018-11-05 14:37:59 +0100;T;$I"2018-11-05 14:37:59 +0100;T;I"10.5220/0005830901680179;T;%I"f3D model; ADE; Architectural heritage; CityGML; Interoperability; Ontologies; Semantics; Standard;T;@I"|https://www.researchgate.net/publication/302973599_Architectural_Heritage_Ontology_-_Concepts_and_Some_Practical_Issues;T;I"168â€“179;T;I"SciTePress;T;I"IArchitectural heritage ontology - concepts and some practical issues;T;&I"[http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=eLdIVcnx6ys%3d&t=1;T;I"	2016;T; I"[http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=eLdIVcnx6ys%3d&t=1;T;'I"-https://doi.org/10.5220/0005830901680179;T:11583_2700334{;o;;o;	;
-@	;iNM;I"article;T;@;I"11583_2700334;F;{I"author;TI"fChiabrando, Filiberto and Danna, Chiara and Lingua, Andrea and Noardo, Francesca and Osello, Anna;TI"date-added;TI"2018-11-05 14:37:00 +0100;TI"date-modified;TI"2018-11-05 14:37:00 +0100;TI"doi;TI"10.5623/cig2017-301;TI"	issn;TI"1925-4296;TI"journal;TI"GEOMATICA;TI"keywords;TI"fPhotogrammetry, structure-from-motion, open source, solar irradiation, GIS, surface analysis, DSM;TI"number;TI"3;TI"
-pages;TI"137--153;TI"publisher;TI"$Canadian Institute of Geomatics;TI"
-title;TI"N3D roof model generation and analysis supporting solar system positioning;TI"url;TI"8http://pubs.cig-acsg.ca/doi/pdf/10.5623/cig2017-301;TI"volume;TI"71;TI"	year;TI"	2017;TI"bdsk-url-1;TI"8http://pubs.cig-acsg.ca/doi/pdf/10.5623/cig2017-301;TI"bdsk-url-2;TI"(https://doi.org/10.5623/cig2017-301;T;[
-I"Filiberto Chiabrando;TI"Chiara Danna;TI"Andrea Lingua;TI"Francesca Noardo;TI"Anna Osello;T;#I"2018-11-05 14:37:00 +0100;T;$I"2018-11-05 14:37:00 +0100;T;I"10.5623/cig2017-301;T:	issnI"1925-4296;T:journalI"GEOMATICA;T;%I"fPhotogrammetry, structure-from-motion, open source, solar irradiation, GIS, surface analysis, DSM;T;I"3;T;I"137â€“153;T;I"$Canadian Institute of Geomatics;T;I"N3d roof model generation and analysis supporting solar system positioning;T;&I"8http://pubs.cig-acsg.ca/doi/pdf/10.5623/cig2017-301;T;I"71;T;I"	2017;T; I"8http://pubs.cig-acsg.ca/doi/pdf/10.5623/cig2017-301;T;'I"(https://doi.org/10.5623/cig2017-301;T:11583_2705050{;o;;o;	;
-@	;imP;I"article;T;@;I"11583_2705050;F;{I"author;TI"Noardo, Francesca;TI"date-added;TI"2018-11-05 14:23:00 +0100;TI"date-modified;TI"2018-11-05 14:23:00 +0100;TI"doi;TI"!10.1016/j.culher.2018.02.009;TI"	issn;TI"1296-2074;TI"journal;TI"!JOURNAL OF CULTURAL HERITAGE;TI"keywords;TI"~3D digital archive; Architectural heritage; Documentation standard; Interoperability; Ontologies; Semantics; Conservation;TI"publisher;TI"Elsevier Masson SAS;TI"
-title;TI"RArchitectural heritage semantic 3D documentation in multi-scale standard maps;TI"url;TI"€https://www.researchgate.net/publication/323529104_Architectural_heritage_semantic_3D_documentation_in_multi-scale_standard_maps;TI"	year;TI"	2018;TI"bdsk-url-1;TI"Hhttps://www.sciencedirect.com/science/article/pii/S1296207417303710;TI"bdsk-url-2;TI"1https://doi.org/10.1016/j.culher.2018.02.009;T;[I"Francesca Noardo;T;#I"2018-11-05 14:23:00 +0100;T;$I"2018-11-05 14:23:00 +0100;T;I"!10.1016/j.culher.2018.02.009;T;CI"1296-2074;T;DI"!JOURNAL OF CULTURAL HERITAGE;T;%I"~3D digital archive; Architectural heritage; Documentation standard; Interoperability; Ontologies; Semantics; Conservation;T;I"Elsevier Masson SAS;T;I"RArchitectural heritage semantic 3d documentation in multi-scale standard maps;T;&I"€https://www.researchgate.net/publication/323529104_Architectural_heritage_semantic_3D_documentation_in_multi-scale_standard_maps;T;I"	2018;T; I"Hhttps://www.sciencedirect.com/science/article/pii/S1296207417303710;T;'I"1https://doi.org/10.1016/j.culher.2018.02.009;T:11583_2644437{;o;;o;	;
-@	;išS;I"inproceedings;T;@;I"11583_2644437;F;{I"author;TI"eAicardi, I. and Chiabrando, F. and Grasso, N. and Lingua, A. M. and Noardo, F. and Span{\'o}, A.;TI"booktitle;TI"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-added;TI"2018-11-05 14:20:19 +0100;TI"date-modified;TI"2018-11-05 14:35:44 +0100;TI"doi;TI"+10.5194/isprs-archives-XLI-B1-835-2016;TI"keywords;TI"hUAV, Oblique Imagery, photogrammetry, SfM, point clouds, cultural heritage, architectural 3D models;TI"
-pages;TI"835--842;TI"publisher;TI"@International Society for Photogrammetry and Remote Sensing;TI"
-title;TI"^UAV photogrammetry with oblique images: first analysis on data acquisition and processing;TI"url;TI"Thttp://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/835/2016/;TI"volume;TI"XLI-B1;TI"	year;TI"	2016;TI"bdsk-url-1;TI"Thttp://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/835/2016/;TI"bdsk-url-2;TI";https://doi.org/10.5194/isprs-archives-XLI-B1-835-2016;T;[I"I. Aicardi;TI"F. Chiabrando;TI"N. Grasso;TI"A. M. Lingua;TI"F. Noardo;TI"A. SpanÃ³;T;I"jISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;#I"2018-11-05 14:20:19 +0100;T;$I"2018-11-05 14:35:44 +0100;T;I"+10.5194/isprs-archives-XLI-B1-835-2016;T;%I"hUAV, Oblique Imagery, photogrammetry, SfM, point clouds, cultural heritage, architectural 3D models;T;I"835â€“842;T;I"@International Society for Photogrammetry and Remote Sensing;T;I"^Uav photogrammetry with oblique images: first analysis on data acquisition and processing;T;&I"Thttp://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/835/2016/;T;I"XLI-B1;T;I"	2016;T; I"Thttp://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/835/2016/;T;'I";https://doi.org/10.5194/isprs-archives-XLI-B1-835-2016;T:11583_2620597{;o;;o;	;
-@	;iˆW;I"article;T;@;I"11583_2620597;F;{I"author;TI"-Noardo, Francesca and Span{\'o}, Antonia;TI"date-added;TI"2018-11-05 14:20:19 +0100;TI"date-modified;TI"2018-11-05 14:20:19 +0100;TI"doi;TI"10.1260/2047-4970.4.2.133;TI"	issn;TI"2047-4970;TI"journal;TI"9International Journal of Heritage in the Digital Era;TI"keywords;TI"UIntangible Cultural Heritage, Semantic Data, OWL Schema, CIDOC-CRM ontology, GIS;TI"number;TI"2;TI"
-pages;TI"133--147;TI"publisher;TI"Multi-science;TI"
-title;TI"OTowards a spatial semantic management for the Intangible Cultural Heritage;TI"url;TI"0http://dx.doi.org/10.1260/2047-4970.4.2.133;TI"volume;TI"4-2015;TI"	year;TI"	2015;TI"bdsk-url-1;TI"0http://dx.doi.org/10.1260/2047-4970.4.2.133;T;[I"Francesca Noardo;TI"Antonia SpanÃ³;T;#I"2018-11-05 14:20:19 +0100;T;$I"2018-11-05 14:20:19 +0100;T;I"10.1260/2047-4970.4.2.133;T;CI"2047-4970;T;DI"9International Journal of Heritage in the Digital Era;T;%I"UIntangible Cultural Heritage, Semantic Data, OWL Schema, CIDOC-CRM ontology, GIS;T;I"2;T;I"133â€“147;T;I"Multi-science;T;I"OTowards a spatial semantic management for the intangible cultural heritage;T;&I"0http://dx.doi.org/10.1260/2047-4970.4.2.133;T;I"4-2015;T;I"	2015;T; I"0http://dx.doi.org/10.1260/2047-4970.4.2.133;T:11583_2531493{;o;;o;	;
-@	;i<Z;I"article;T;@;I"11583_2531493;F;{I"author;TI"RAicardi, I. and Chiabrando, F. and Lingua, A. M. and Noardo, F. and Piras, M.;TI"date-added;TI"2018-11-05 14:20:19 +0100;TI"date-modified;TI"2018-11-05 14:20:19 +0100;TI"journal;TI"MJUNCO. Journal of universities and international development cooperation;TI"keywords;TI"QUAV -- Unmanned Aerial Vehicles; Digital Photogrammetry; Disaster Management;TI"
-pages;TI"164--171;TI"publisher;TI"/University of Turin, Politecnico di Torino;TI"
-title;TI"VUnmanned aerial systems for data acquisitions in disaster management applications;TI"url;TI"Bhttp://www.ojs.unito.it/index.php/junco/issue/viewIssue/62/26;TI"volume;TI"1-2014;TI"	year;TI"	2014;TI"bdsk-url-1;TI"Bhttp://www.ojs.unito.it/index.php/junco/issue/viewIssue/62/26;T;[
-I"I. Aicardi;TI"F. Chiabrando;TI"A. M. Lingua;TI"F. Noardo;TI"M. Piras;T;#I"2018-11-05 14:20:19 +0100;T;$I"2018-11-05 14:20:19 +0100;T;DI"MJUNCO. Journal of universities and international development cooperation;T;%I"RUAV â€“ Unmanned Aerial Vehicles; Digital Photogrammetry; Disaster Management;T;I"164â€“171;T;I"/University of Turin, Politecnico di Torino;T;I"VUnmanned aerial systems for data acquisitions in disaster management applications;T;&I"Bhttp://www.ojs.unito.it/index.php/junco/issue/viewIssue/62/26;T;I"1-2014;T;I"	2014;T; I"Bhttp://www.ojs.unito.it/index.php/junco/issue/viewIssue/62/26;T:Noardo_et_al.2016{;o;;o;	;
-@	;i%];I"article;T;@;I"Noardo_et_al.2016;F;{I"author;TI"XNoardo, Francesca and Lingua, Andrea Maria and Aicardi, Irene and Vigna, Bartolomeo;TI"date-added;TI"2018-11-05 14:20:19 +0100;TI"date-modified;TI"2018-11-05 14:20:19 +0100;TI"doi;TI"10.1007/s12518-016-0172-9;TI"	issn;TI"1866928X, 18669298;TI"journal;TI"APPLIED GEOMATICS;TI"keywords;TI"Ucartography, data harmonisation, DTM, orthophoto, digital maps, INSPIRE, ALCOTRA;TI"local-url;TI"~https://www.researchgate.net/publication/304064666_Cartographic_data_harmonisation_for_a_cross-border_project_development;TI"number;TI"3;TI"
-pages;TI"
-1--18;TI"publisher;TI"Springer;TI"
-title;TI"KCartographic data harmonisation for a cross-border project development;TI"url;TI"~https://www.researchgate.net/publication/304064666_Cartographic_data_harmonisation_for_a_cross-border_project_development;TI"volume;TI"8;TI"	year;TI"	2016;TI"bdsk-url-1;TI"?http://link.springer.com/article/10.1007/s12518-016-0172-9;TI"bdsk-url-2;TI".https://doi.org/10.1007/s12518-016-0172-9;T;[	I"Francesca Noardo;TI"Andrea Maria Lingua;TI"Irene Aicardi;TI"Bartolomeo Vigna;T;#I"2018-11-05 14:20:19 +0100;T;$I"2018-11-05 14:20:19 +0100;T;I"10.1007/s12518-016-0172-9;T;CI"1866928X, 18669298;T;DI"APPLIED GEOMATICS;T;%I"Ucartography, data harmonisation, DTM, orthophoto, digital maps, INSPIRE, ALCOTRA;T;@I"~https://www.researchgate.net/publication/304064666_Cartographic_data_harmonisation_for_a_cross-border_project_development;T;I"3;T;I"1â€“18;T;I"Springer;T;I"KCartographic data harmonisation for a cross-border project development;T;&I"~https://www.researchgate.net/publication/304064666_Cartographic_data_harmonisation_for_a_cross-border_project_development;T;I"8;T;I"	2016;T; I"?http://link.springer.com/article/10.1007/s12518-016-0172-9;T;'I".https://doi.org/10.1007/s12518-016-0172-9;T:11583_2638059{;o;;o;	;
-@	;iÿ`;I"article;T;@;I"11583_2638059;F;{I"author;TI"Noardo, Francesca;TI"date-added;TI"2018-11-05 14:18:29 +0100;TI"date-modified;TI"2018-11-05 14:18:29 +0100;TI"	issn;TI"1721-971X;TI"journal;TI"IBollettino della Societ{\'a} Italiana di Fotogrammetria e Topografia;TI"keywords;TI"hfotogrammetria digitale, Computer Vision, Dense Image Matching, SfM, Beni Culturali, documentazione;TI"publisher;TI"
-SIFET;TI"
-title;TI"rDense Image matching per il recupero di contenuto metrico da immagini di documentazione e camere non metriche;TI"volume;TI"1/2015;TI"	year;TI"	2015;T;[I"Francesca Noardo;T;#I"2018-11-05 14:18:29 +0100;T;$I"2018-11-05 14:18:29 +0100;T;CI"1721-971X;T;DI"FBollettino della SocietÃ¡ Italiana di Fotogrammetria e Topografia;T;%I"hfotogrammetria digitale, Computer Vision, Dense Image Matching, SfM, Beni Culturali, documentazione;T;I"
-SIFET;T;I"rDense image matching per il recupero di contenuto metrico da immagini di documentazione e camere non metriche;T;I"1/2015;T;I"	2015;T:11583_2651216{;o;;o;	;
-@	;ic;I"article;T;@;I"11583_2651216;F;{I"author;TI"~Aicardi, Irene and Chiabrando, Filiberto and Lingua, Andrea Maria and Noardo, Francesca and Piras, Marco and Vigna, Bartolomeo;TI"date-added;TI"2018-11-05 14:18:29 +0100;TI"date-modified;TI"2018-11-05 14:18:29 +0100;TI"doi;TI""10.1080/19475705.2016.1225229;TI"	issn;TI"1947-5705, 1947-5713;TI"journal;TI"'GEOMATICS, NATURAL HAZARDS \& RISK;TI"keywords;TI"HUAV, thermal sensors, data integration, action-cam, photogrammetry,;TI"
-pages;TI"
-1--13;TI"publisher;TI"Taylor \& Francis;TI"
-title;TI"~A methodology for acquisition and processing of thermal data acquired by UAVs: a test about subfluvial springs' investigations;TI"url;TI"Ghttps://www.tandfonline.com/doi/full/10.1080/19475705.2016.1225229;TI"	year;TI"	2016;TI"bdsk-url-1;TI"2https://doi.org/10.1080/19475705.2016.1225229;T;[I"Irene Aicardi;TI"Filiberto Chiabrando;TI"Andrea Maria Lingua;TI"Francesca Noardo;TI"Marco Piras;TI"Bartolomeo Vigna;T;#I"2018-11-05 14:18:29 +0100;T;$I"2018-11-05 14:18:29 +0100;T;I""10.1080/19475705.2016.1225229;T;CI"1947-5705, 1947-5713;T;DI"&GEOMATICS, NATURAL HAZARDS & RISK;T;%I"HUAV, thermal sensors, data integration, action-cam, photogrammetry,;T;I"1â€“13;T;I"Taylor & Francis;T;I"€A methodology for acquisition and processing of thermal data acquired by uavs: a test about subfluvial springsâ€™ investigations;T;&I"Ghttps://www.tandfonline.com/doi/full/10.1080/19475705.2016.1225229;T;I"	2016;T; I"2https://doi.org/10.1080/19475705.2016.1225229;T:11583_2655794{;o;;o;	;
-@	;iDf;I"article;T;@;I"11583_2655794;F;{I"author;TI"~Lingua, Andrea Maria and Piras, Marco and Musci, Maria Angela and Noardo, Francesca and Grasso, Nives and Verda, Vittorio;TI"date-added;TI"2018-11-05 14:18:29 +0100;TI"date-modified;TI"2018-11-05 14:18:29 +0100;TI"	issn;TI"1128-8132;TI"journal;TI"GEOMEDIA;TI"keywords;TI"*INSPIRE Directive, fire-fighting, GIS;TI"number;TI"3;TI"
-pages;TI"28--31;TI"publisher;TI"mediaGEO soc. coop.;TI"
-title;TI"[Study and development of a GIS for fire-fighting activities based on INSPIRE directive;TI"url;TI"@http://mediageo.it/ojs/index.php/GEOmedia/article/view/1327;TI"volume;TI"20;TI"	year;TI"	2016;TI"bdsk-url-1;TI"@http://mediageo.it/ojs/index.php/GEOmedia/article/view/1327;T;[I"Andrea Maria Lingua;TI"Marco Piras;TI"Maria Angela Musci;TI"Francesca Noardo;TI"Nives Grasso;TI"Vittorio Verda;T;#I"2018-11-05 14:18:29 +0100;T;$I"2018-11-05 14:18:29 +0100;T;CI"1128-8132;T;DI"GEOMEDIA;T;%I"*INSPIRE Directive, fire-fighting, GIS;T;I"3;T;I"28â€“31;T;I"mediaGEO soc. coop.;T;I"[Study and development of a gis for fire-fighting activities based on inspire directive;T;&I"@http://mediageo.it/ojs/index.php/GEOmedia/article/view/1327;T;I"20;T;I"	2016;T; I"@http://mediageo.it/ojs/index.php/GEOmedia/article/view/1327;T:11583_2686638{;o;;o;	;
-@	;iúh;I"article;T;@;I"11583_2686638;F;{I"author;TI"jGrasso, Nives and Lingua, Andrea Maria and Musci, Maria Angela and Noardo, Francesca and Piras, Marco;TI"date-added;TI"2018-11-05 14:18:29 +0100;TI"date-modified;TI"2018-11-05 14:18:29 +0100;TI"doi;TI"10.1007/s11069-017-3059-0;TI"	issn;TI"0921-030X;TI"journal;TI"NATURAL HAZARDS;TI"keywords;TI"dForest fire-fighting , Decision support system , Emergency management, INSPIRE data model , GIS;TI"number;TI"2;TI"
-pages;TI"623-637;TI"publisher;TI"Springer Netherlands;TI"
-title;TI"FAn INSPIRE-compliant open-source GIS for fire-fighting management;TI"url;TI"@https://link.springer.com/article/10.1007/s11069-017-3059-0;TI"volume;TI"90;TI"	year;TI"	2017;TI"bdsk-url-1;TI"@https://link.springer.com/article/10.1007/s11069-017-3059-0;TI"bdsk-url-2;TI".https://doi.org/10.1007/s11069-017-3059-0;T;[
-I"Nives Grasso;TI"Andrea Maria Lingua;TI"Maria Angela Musci;TI"Francesca Noardo;TI"Marco Piras;T;#I"2018-11-05 14:18:29 +0100;T;$I"2018-11-05 14:18:29 +0100;T;I"10.1007/s11069-017-3059-0;T;CI"0921-030X;T;DI"NATURAL HAZARDS;T;%I"dForest fire-fighting , Decision support system , Emergency management, INSPIRE data model , GIS;T;I"2;T;I"623-637;T;I"Springer Netherlands;T;I"FAn inspire-compliant open-source gis for fire-fighting management;T;&I"@https://link.springer.com/article/10.1007/s11069-017-3059-0;T;I"90;T;I"	2017;T; I"@https://link.springer.com/article/10.1007/s11069-017-3059-0;T;'I".https://doi.org/10.1007/s11069-017-3059-0;T:11583_2705081{;o;;o;	;
-@	;i)l;I"article;T;@;I"11583_2705081;F;{I"author;TI"\Aicardi, Irene and Chiabrando, Filiberto and Lingua, Andrea Maria and Noardo, Francesca;TI"doi;TI"!10.1016/j.culher.2017.11.006;TI"	issn;TI"1296-2074;TI"journal;TI"!JOURNAL OF CULTURAL HERITAGE;TI"keywords;TI"aPhotogrammetry; Computer vision; Structure-from-motion; Algorithms; 3D modelling; Orthophoto;TI"
-pages;TI"257--266;TI"publisher;TI"Elsevier;TI"
-title;TI"_Recent trends in cultural heritage 3D survey: The photogrammetric computer vision approach;TI"url;TI"€https://www.researchgate.net/publication/323529104_Architectural_heritage_semantic_3D_documentation_in_multi-scale_standard_maps;TI"volume;TI"32;TI"	year;TI"	2018;TI"bdsk-url-1;TI"1https://doi.org/10.1016/j.culher.2017.11.006;T;[	I"Irene Aicardi;TI"Filiberto Chiabrando;TI"Andrea Maria Lingua;TI"Francesca Noardo;T;I"!10.1016/j.culher.2017.11.006;T;CI"1296-2074;T;DI"!JOURNAL OF CULTURAL HERITAGE;T;%I"aPhotogrammetry; Computer vision; Structure-from-motion; Algorithms; 3D modelling; Orthophoto;T;I"257â€“266;T;I"Elsevier;T;I"_Recent trends in cultural heritage 3d survey: the photogrammetric computer vision approach;T;&I"€https://www.researchgate.net/publication/323529104_Architectural_heritage_semantic_3D_documentation_in_multi-scale_standard_maps;T;I"32;T;I"	2018;T; I"1https://doi.org/10.1016/j.culher.2017.11.006;T:Kokla19{;o;;o;	;
-@	;iøn;I"inproceedings;T;@;I"Kokla19;F;{I"author;TI"@M. Kokla and M. A. Mostafavi and F. Noardo and A. Span{\'o};TI"booktitle;TI"hISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"date-modified;TI"2019-07-02 16:25:40 +0200;TI"doi;TI"/10.5194/isprs-archives-XLII-2-W11-675-2019;TI"
-pages;TI"675-683;TI"
-title;TI"MTowards Building a Semantic Formalization of (small) Historical Centres.;TI"url;TI"https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W11/675/2019/isprs-archives-XLII-2-W11-675-2019.pdf;TI"volume;TI"	4211;TI"	year;TI"	2019;TI"bdsk-url-1;TI"https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W11/675/2019/isprs-archives-XLII-2-W11-675-2019.pdf;TI"bdsk-url-2;TI"?https://doi.org/10.5194/isprs-archives-XLII-2-W11-675-2019;T;[	I"M. Kokla;TI"M. A. Mostafavi;TI"F. Noardo;TI"A. SpanÃ³;T;I"hISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;$I"2019-07-02 16:25:40 +0200;T;I"/10.5194/isprs-archives-XLII-2-W11-675-2019;T;I"675-683;T;I"MTowards building a semantic formalization of (small) historical centres.;T;&I"https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W11/675/2019/isprs-archives-XLII-2-W11-675-2019.pdf;T;I"	4211;T;I"	2019;T; I"https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W11/675/2019/isprs-archives-XLII-2-W11-675-2019.pdf;T;'I"?https://doi.org/10.5194/isprs-archives-XLII-2-W11-675-2019;T:Noardo19a{;o;;o;	;
-@	;ir;I"inproceedings;T;@;I"Noardo19a;F;{I"author;TI"jF. Noardo and K. Arroyo Ohori and F. Biljecki and C. Ellul and L. Harrie and T. Krijnen and J. Stoter;TI"booktitle;TI"hISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;TI"doi;TI"010.5194/isprs-archives-XLII-2-W13-1339-2019;TI"keywords;TI"bGeoBIM, software support, interoperability, open standards, CityGML, IFC, 3D city models, BIM;TI"number;TI"
-2/W13;TI"organization;TI"
-ISPRS;TI"
-pages;TI"1339-1346;TI"
-title;TI"6GeoBIM Benchmark 2019: Design and Initial Results;TI"url;TI"Zhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1339/2019/;TI"volume;TI"42;TI"	year;TI"	2019;TI"bdsk-url-1;TI"Zhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1339/2019/;TI"bdsk-url-2;TI"@https://doi.org/10.5194/isprs-archives-XLII-2-W13-1339-2019;T;[I"F. Noardo;TI"K. Arroyo Ohori;TI"F. Biljecki;TI"C. Ellul;TI"L. Harrie;TI"T. Krijnen;TI"J. Stoter;T;I"hISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences;T;I"010.5194/isprs-archives-XLII-2-W13-1339-2019;T;%I"bGeoBIM, software support, interoperability, open standards, CityGML, IFC, 3D city models, BIM;T;I"
-2/W13;T:organizationI"
-ISPRS;T;I"1339-1346;T;I"6Geobim benchmark 2019: design and initial results;T;&I"Zhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1339/2019/;T;I"42;T;I"	2019;T; I"Zhttps://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/1339/2019/;T;'I"@https://doi.org/10.5194/isprs-archives-XLII-2-W13-1339-2019;T:Noardo19b{;o;;o;	;
-@	;iru;I"article;T;@;I"Noardo19b;F;{I"author;TI"nF. Noardo and C. Ellul, C. and L. Harrie and I. Overland and M. Shariat and K. Arroyo Ohori and J. Stoter;TI"doi;TI"#10.1080/14498596.2019.1627253.;TI"journal;TI"Journal of Spatial Science;TI"keywords;TI"OGeoBIM; National Mapping and Cadastral Agencies;building permits; GIS; BIM;TI"
-title;TI"ŸOpportunities and Challenges for GeoBIM in Europe: developing a building permits use-case to raise awareness and examine technical interoperability challenges.;TI"url;TI"5http://dx.doi.org/10.1080/14498596.2019.1627253.;TI"	year;TI"	2019;TI"bdsk-url-1;TI"5http://dx.doi.org/10.1080/14498596.2019.1627253.;T;[I"F. Noardo;TI"C. C. Ellul;TI"L. Harrie;TI"I. Overland;TI"M. Shariat;TI"K. Arroyo Ohori;TI"J. Stoter;T;I"#10.1080/14498596.2019.1627253.;T;DI"Journal of Spatial Science;T;%I"OGeoBIM; National Mapping and Cadastral Agencies;building permits; GIS; BIM;T;I"ŸOpportunities and challenges for geobim in europe: developing a building permits use-case to raise awareness and examine technical interoperability challenges.;T;&I"5http://dx.doi.org/10.1080/14498596.2019.1627253.;T;I"	2019;T; I"5http://dx.doi.org/10.1080/14498596.2019.1627253.;T:Chaibrando15{;o;;o;	;
-@	;iãw;I"article;T;@;I"Chaibrando15;F;{I"author;TI"NChiabrando, F. and Danna, C. and Lingua, A. and Noardo, F. and Osello, A.;TI"	issn;TI"1591-092X;TI"journal;TI"Geomatics workbooks;TI"	note;TI"[Brovelli, M., Minghini, M., Negretti, M. Free and open source software for geospatial.;TI"
-pages;TI"85--98;TI"
-title;TI"€Effective tools for supporting energetic policies: 3d urban models generation and analysis models supporting energetic policies.;TI"volume;TI"12;TI"	year;TI"	2015;T;[
-I"F. Chiabrando;TI"C. Danna;TI"A. Lingua;TI"F. Noardo;TI"A. Osello;T;CI"1591-092X;T;DI"Geomatics workbooks;T:	noteI"[Brovelli, M., Minghini, M., Negretti, M. Free and open source software for geospatial.;T;I"85â€“98;T;I"€Effective tools for supporting energetic policies: 3d urban models generation and analysis models supporting energetic policies.;T;I"12;T;I"	2015;T:DelGiudice17{;o;;o;	;
-@	;i«y;I"inproceedings;T;@;I"DelGiudice17;F;{	I"author;TI"~Del Giudice, Matteo and Lingua, Andrea and Matrone, Francesca and Noardo, Francesca and Sanna, Salvatore and Zerbinatti, Marco;TI"booktitle;TI"LAtti della XXI Conferenza Nazionale ASITA, 21-23 novembre 2017. Salerno;TI"
-title;TI"oRilevamento metrico 3D e modellazione H-BIM per la manutenzione programmata del patrimonio architettonico.;TI"	year;TI"	2017;T;[I"Matteo Del Giudice;TI"Andrea Lingua;TI"Francesca Matrone;TI"Francesca Noardo;TI"Salvatore Sanna;TI"Marco Zerbinatti;T;I"LAtti della XXI Conferenza Nazionale ASITA, 21-23 novembre 2017. Salerno;T;I"oRilevamento metrico 3d e modellazione h-bim per la manutenzione programmata del patrimonio architettonico.;T;I"	2017;T
+@inproceedings{b6ba41593e9a4a5aaa6152cf72ef6cbf,
+title = "Geomatics as effective environmental monitoring support",
+author = "Francesca Noardo and Andrea Lingua",
+year = "2019",
+language = "English",
+booktitle = "European Space project on Smart Systems, Big Data, Future Internet",
+}
+:ET:@byteposiý:	@strI"inproceedings;T:@line_cacheo:Parslet::Source::LineCache:@line_endse:!Parslet::Source::RangeSearch[iAidieiižiŸiÍiÎiÏiûiüi-ipiŸi®iÄii:@last_line_endi:keyI"%b6ba41593e9a4a5aaa6152cf72ef6cbf;F:bibtex{
+I"
+title;TI"<Geomatics as effective environmental monitoring support;TI"author;TI"'Francesca Noardo and Andrea Lingua;TI"	year;TI"	2019;TI"language;TI"English;TI"booktitle;TI"GEuropean Space project on Smart Systems, Big Data, Future Internet;T:
+titleI"<Geomatics as effective environmental monitoring support;T:author[I"Francesca Noardo;TI"Andrea Lingua;T:	yearI"	2019;T:languageI"English;T:booktitleI"GEuropean Space project on Smart Systems, Big Data, Future Internet;T

@@ -2,10 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-------
-layout: page
-title: Projects
-permalink: /projects/
 ---
 
 Some of my recent projects, mostly aiming at the **use of open standards** to manage spatial information and at the **integration of various kinds of spatial information** (especially, 3D geoinformation and Building Information Models).
@@ -64,9 +60,9 @@ Funded by the Municipality of Rotterdam (Digital city group).
 At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
 
 
-The automation of the regulation checks is further explored by this project, by means of the integrated information from the geospatial domain and the Building Information Models. 
+The automation of the regulation checks is further explored by this project, by means of the integrated information from the geospatial domain and the Building Information Models.
 
-In particular, two regulations were chosen for having potentially higher advantages by the system, and higher compliance and effective assessment urgency. These are analysed and translated to more formal languages within workshops and sessions in collaboration with the municipality officers usually devoted to the interpretation of such rules. 
+In particular, two regulations were chosen for having potentially higher advantages by the system, and higher compliance and effective assessment urgency. These are analysed and translated to more formal languages within workshops and sessions in collaboration with the municipality officers usually devoted to the interpretation of such rules.
 
 A tool will be implemented, allowing the automatic or semi-automatic checks of the compliancy to the selected regulations using a BIM model and a 3D city model as input.
 
