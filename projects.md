@@ -6,18 +6,18 @@ permalink: /projects/
 
 Some of my recent projects, mostly aiming at the **use of open standards** to manage spatial information and at the **integration of various kinds of spatial information** (especially, 3D geoinformation and Building Information Models).
 
-*Last update 2nd February 2020*
+*Last update 6th May 2020*
 
 ---
 
-## [Multisource Spatial data integration for smart city applications](https://3d.bk.tudelft.nl/projects/leadingfellow/)
+## [Multisource Spatial data integration for smart city applications (MuSICA)](https://3d.bk.tudelft.nl/projects/leadingfellow/)
 <div class="row">
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/LF.gif" }}" style="max-height: 200px"></div>
 </div>
 
 *2020-2022 (on-going)*
 
-Funded within the [EU Marie Sklodowska-Curie cofund ‘Leading Fellows’](https://leadingfellows.eu) Postdocs Programme.
+Funded within the [EU Marie Sklodowska-Curie cofund ‘Leading Fellows’](https://leadingfellows.eu) Postdocs Programme, grant agreement No. 707404.
 
 At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
 
