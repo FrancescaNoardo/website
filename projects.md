@@ -6,13 +6,13 @@ permalink: /projects/
 
 Some of my recent projects, mostly aiming at the **use of open standards** to manage spatial information and at the **integration of various kinds of spatial information** (especially, 3D geoinformation and Building Information Models).
 
-*Last update 6th May 2020*
+*Last update 10th May 2020*
 
 ---
 
 ## [Multisource Spatial data integration for smart city applications (MuSICA)](https://3d.bk.tudelft.nl/projects/leadingfellow/)
 <div class="row">
-  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/LF.gif" }}" style="max-height: 200px"></div>
+  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/LF.png" }}" style="max-height: 200px"></div>
 </div>
 
 *2020-2022 (on-going)*
@@ -30,23 +30,6 @@ A methodology will be developed, in an interdisciplinary framework, for obtainin
 Ontologies, will be used to achieve such an integration. Moreover, the objects in such integrated digital map will be reciprocally harmonised to be suitable for specific use cases (e.g. building permission checks, energy, pollution assessments).
 
 ---
-<!--
-## European network for Digital Building Permission
-<div class="row">
-  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/RotterdamBP.png" }}" style="max-height: 200px"></div>
-</div>
-
-*from 2020 (on-going)*
-
-Spontaneous organisation ...
-
-
-
-
----
--->
-
-
 
 ## [GeoBIM Building permission](https://3d.bk.tudelft.nl/projects/rotterdamgeobim_bp/)
 <div class="row">
@@ -69,6 +52,24 @@ A tool will be implemented, allowing the automatic or semi-automatic checks of t
 A further outcome of this project will be a list of guidelines and recommendations, addressed to designers and city modelers, to be followed when building the 3D city models and the building information models involved in the procedure, in order the automation to be successful.
 
 ---
+
+## [European network for Digital Building Permission (EUnet4DBP)](https://3d.bk.tudelft.nl/projects/eunet_bp/)
+
+<div class="row">
+  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/eunet4dbp.png" }}" style="max-height: 200px"></div>
+</div>
+
+*from 2020 (on-going)*
+
+Spontaneous organisation of researchers and stakeholders with common interests in the development of a methodology (including guidelines, best practices, tools, and so on) to support the digitisation and the automation of the building permission issuing process.
+
+Our objective will be the definition of a strategy and organization of an international network to develop digital building permission tools and methods in a common effort, with advantages to interoperability, procedures and data optimization and standardization and good implementations.
+
+
+
+
+---
+
 
 ## [GeoBIM benchmark project](https://3d.bk.tudelft.nl/projects/geobim-benchmark/)
 <div class="row">

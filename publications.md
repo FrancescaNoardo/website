@@ -7,7 +7,7 @@ permalink: /publications/
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/pubb.png" }}" style="max-height: 200px"></div>
 </div>
 
-*Last update 2nd February 2020*
+*Last update 10th May 2020*
 
 <div class="container" style="width: 100%; padding-left: 0px; padding-right: 0px;">
 	<div class="row">
@@ -21,7 +21,7 @@ permalink: /publications/
 					<li><a href="#type_proceedings">Conference proceedings</a></li>
 					<li><a href="#type_incollection">Conference articles (in book)</a></li>
 					<li><a href="#type_inproceedings">Conference articles</a></li>
-					<li><a href="#type_techreport">Technical reports</a></li>
+				<!--	<li><a href="#type_techreport">Technical reports</a></li> -->
 					<li><a href="#type_misc">Others</a></li>
 				</ul>
 			</div>
