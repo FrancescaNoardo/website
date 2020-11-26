@@ -7,7 +7,7 @@ permalink: /publications/
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/pubb.png" }}" style="max-height: 200px"></div>
 </div>
 
-*Last update 10th May 2020*
+*Last update 20th November 2020*
 
 <div class="container" style="width: 100%; padding-left: 0px; padding-right: 0px;">
 	<div class="row">
@@ -28,6 +28,4 @@ permalink: /publications/
 		</div>
 		<div class="col-12" role="main">
         {% imbiber francesca.bib groupby:classthenyear idswithprefix:type_ %}
-		</div>
-	</div>
-</div>
+		

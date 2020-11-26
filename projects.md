@@ -6,7 +6,7 @@ permalink: /projects/
 
 Some of my recent projects, mostly aiming at the **use of open standards** to manage spatial information and at the **integration of various kinds of spatial information** (especially, 3D geoinformation and Building Information Models).
 
-*Last update 10th May 2020*
+*Last update 26th November 2020*
 
 ---
 
@@ -31,28 +31,6 @@ Ontologies, will be used to achieve such an integration. Moreover, the objects i
 
 ---
 
-## [GeoBIM Building permission](https://3d.bk.tudelft.nl/projects/rotterdamgeobim_bp/)
-<div class="row">
-  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/RotterdamBP.png" }}" style="max-height: 200px"></div>
-</div>
-
-*2019-2020 (on-going)*
-
-Funded by the Municipality of Rotterdam (Digital city group).
-
-At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
-
-
-The automation of the regulation checks is further explored by this project, by means of the integrated information from the geospatial domain and the Building Information Models.
-
-In particular, two regulations were chosen for having potentially higher advantages by the system, and higher compliance and effective assessment urgency. These are analysed and translated to more formal languages within workshops and sessions in collaboration with the municipality officers usually devoted to the interpretation of such rules.
-
-A tool will be implemented, allowing the automatic or semi-automatic checks of the compliancy to the selected regulations using a BIM model and a 3D city model as input.
-
-A further outcome of this project will be a list of guidelines and recommendations, addressed to designers and city modelers, to be followed when building the 3D city models and the building information models involved in the procedure, in order the automation to be successful.
-
----
-
 ## [European network for Digital Building Permission (EUnet4DBP)](https://3d.bk.tudelft.nl/projects/eunet_bp/)
 
 <div class="row">
@@ -65,6 +43,27 @@ Spontaneous organisation of researchers and stakeholders with common interests i
 
 Our objective will be the definition of a strategy and organization of an international network to develop digital building permission tools and methods in a common effort, with advantages to interoperability, procedures and data optimization and standardization and good implementations.
 
+---
+
+## [GeoBIM Building permits](https://3d.bk.tudelft.nl/projects/rotterdamgeobim_bp/)
+<div class="row">
+  <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/RotterdamBP.png" }}" style="max-height: 200px"></div>
+</div>
+
+*2019-2020*
+
+Funded by the Municipality of Rotterdam (Digital city group).
+
+At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
+
+
+The automation of the regulation checks is further explored by this project, by means of the integrated information from the geospatial domain and the Building Information Models.
+
+In particular, two regulations were chosen for having potentially higher advantages by the system, and higher compliance and effective assessment urgency. These are analysed and translated to more formal languages within workshops and sessions in collaboration with the municipality officers usually devoted to the interpretation of such rules.
+
+A tool was implemented, allowing the automatic or semi-automatic checks of the compliancy to the selected regulations using IFC models as input.
+
+Guidelines and recommendations were also provided, addressed to designers and city modelers, to be followed when building the 3D city models and the building information models involved in the procedure, in order the automation to be successful.
 
 
 
@@ -94,7 +93,7 @@ A wide collaboration with voluntary participants in the world is develop to buil
 <div class="row">
   <div class="col-sm-12 col-xs-12"><img class="img-responsive" src="{{ "/img/eurosdrgeobim.gif" }}" style="max-height: 200px"></div>
 </div>
-*2018-2020 (on-going)*
+*2018-2020*
 
 Sponsored by [EuroSDR](http://www.eurosdr.net) (European agency for Spatial Data Research)
 
@@ -116,7 +115,7 @@ Funded by the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS-Inst
 
 At the [3D geoinformation group](https://3d.bk.tudelft.nl), Delft University of Technology (NL).
 
-The project addresses the use of GeoBIM information for applications in an urban environment. The energy assessment of buildings and microclimate simulations are part of this project.
+The project addresses the use of GeoBIM information for applications in an urban environment.
 
 ---
 

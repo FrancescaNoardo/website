@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Talks
+title: Talks & more
 permalink: /talks/
 ---
 
 Here you can find the slides of some of my presentations.
+
+### Presentation at the buildingSMART Virtual summit 2020 - Regulatory Room 2: "Show and Tell"
+
+2nd November 2020
+
+<script async class="speakerdeck-embed" data-id="bb50242e06e64144a1d1a2ac449ee3f2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+Recording can be [watched](https://summit.buildingsmart.org/buildingsmart/Regulatory-Room-2-Show-and-Tell) after registration.
+
+
 
 ### Presentation at the WDBE2020 Pre-event ["BIM-based Building Permit Process Automation Seminar"](https://kirahub.org/en/wdbe2020/pre-event-2/) 
 

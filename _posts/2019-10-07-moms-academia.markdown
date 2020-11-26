@@ -32,3 +32,7 @@ categories: jekyll update
 - I will finish my work even if at home, while caring other needs, and I will be grateful for having the opportunity
 
 - I am encouraged to work hard for the future World’s quality
+
+---
+
+Interview for the Politecnico di Milano PhD newsletter, by Enrico de Angeli ["Your private space and time"](http://www.dottorato.polimi.it/uploads/media/PhDNewsletter_2020-09.pdf)
